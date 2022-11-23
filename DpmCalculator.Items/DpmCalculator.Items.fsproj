@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Models\Types.fs" />
+    <Content Include="Data\SetData.json" />
+    <Content Include="Data\ItemData.json" />
+    <Compile Include="Library.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DpmCalculator.Core\DpmCalculator.Core.fsproj" />
+  </ItemGroup>
+
+</Project>

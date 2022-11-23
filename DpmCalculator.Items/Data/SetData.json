@@ -1,0 +1,122 @@
+﻿{
+  "287": {
+    "set_item_name": "마이스터 세트",
+    "item_id": [ 1032200, 1113055, 1152154 ],
+    "effect": {
+      "2": {
+        "hp_rate": 10,
+        "mp_rate": 10
+      },
+      "3": {
+        "patk": 40,
+        "matk": 40
+      },
+      "4": {
+        "boss_damage": 20
+      }
+    }
+  },
+  "462": {
+    "set_item_name": "보스 장신구 세트",
+    "item_id": [ 1012478, 1022231, 1022232, 1022277, 1032136, 1032241, 1113149, 1113282, 1113313, 1122000, 1122076, 1122150, 1122254, 1132272, 1132296, 1152170, 1162009, 1162025, 1182087 ],
+    "effect": {
+      "3": {
+        "allstat": 10,
+        "hp_rate": 5,
+        "mp_rate": 5,
+        "patk": 5,
+        "matk": 5
+      },
+      "5": {
+        "allstat": 10,
+        "hp_rate": 5,
+        "mp_rate": 5,
+        "patk": 5,
+        "matk": 5
+      },
+      "7": {
+        "allstat": 10,
+        "patk": 10,
+        "matk": 10,
+        "armor_ignore": 10
+      },
+      "9": {
+        "allstat": 15,
+        "patk": 10,
+        "matk": 10,
+        "boss_damage": 10
+      }
+    }
+  },
+  "584": {
+    "set_item_name": "칠요 세트",
+    "item_id": [ 1142922, 1182200 ],
+    "effect": {
+      "2": {
+        "armor_ignore": 10
+      }
+    }
+  },
+  "677": {
+    "set_item_name": "칠흑의 보스 세트",
+    "item_id": [ 1012632, 1022278, 1032316, 1113306, 1122430, 1132308, 1162080, 1162081, 1162082, 1162083, 1182285, 1672082 ],
+    "effect": {
+      "2": {
+        "allstat": 10,
+        "max_hp": 250,
+        "patk": 10,
+        "matk": 10,
+        "boss_damage": 10
+      },
+      "3": {
+        "allstat": 10,
+        "max_hp": 250,
+        "patk": 10,
+        "matk": 10,
+        "armor_ignore": 10
+      },
+      "4": {
+        "allstat": 15,
+        "max_hp": 375,
+        "patk": 15,
+        "matk": 15,
+        "crit_damage": 5
+      },
+      "5": {
+        "allstat": 15,
+        "max_hp": 375,
+        "patk": 15,
+        "matk": 15,
+        "boss_damage": 10
+      },
+      "6": {
+        "allstat": 15,
+        "max_hp": 375,
+        "patk": 15,
+        "matk": 15,
+        "armor_ignore": 10
+      },
+      "7": {
+        "allstat": 15,
+        "att": 15,
+        "matt": 15,
+        "MHP": 375,
+        "crit_damage": 5
+      },
+      "8": {
+        "allstat": 15,
+        "max_hp": 375,
+        "patk": 15,
+        "matk": 15,
+        "boss_damage": 10
+      },
+      "9": {
+        "allstat": 15,
+        "att": 15,
+        "matt": 15,
+        "MHP": 375,
+        "crit_damage": 5
+      }
+    }
+  }
+}
