@@ -263,6 +263,56 @@
     "armor_ignore": 15,
     "upgrade_count": 11
   },
+  "1012406": {
+    "name": "샤이니 레드 워리어 마이스터 심볼",
+    "type": 2,
+    "job": 1,
+    "level": 130,
+    "str": 3,
+    "dex": 3,
+    "patk": 3,
+    "upgrade_count": 1
+  },
+  "1012407": {
+    "name": "샤이니 레드 매지션 마이스터 심볼",
+    "type": 2,
+    "job": 2,
+    "level": 130,
+    "int": 3,
+    "luk": 3,
+    "matk": 3,
+    "upgrade_count": 1
+  },
+  "1012408": {
+    "name": "샤이니 레드 아처 마이스터 심볼",
+    "type": 2,
+    "job": 3,
+    "level": 130,
+    "str": 3,
+    "dex": 3,
+    "patk": 3,
+    "upgrade_count": 1
+  },
+  "1012409": {
+    "name": "샤이니 레드 시프 마이스터 심볼",
+    "type": 2,
+    "job": 4,
+    "level": 130,
+    "dex": 3,
+    "luk": 3,
+    "patk": 3,
+    "upgrade_count": 1
+  },
+  "1012410": {
+    "name": "샤이니 레드 파이렛 마이스터 심볼",
+    "type": 2,
+    "job": 5,
+    "level": 130,
+    "str": 3,
+    "dex": 3,
+    "patk": 3,
+    "upgrade_count": 1
+  },
   "1012478": {
     "name": "응축된 힘의 결정석",
     "set_item_id": 462,
@@ -288,6 +338,19 @@
     "patk": 10,
     "matk": 10,
     "upgrade_count": 5
+  },
+  "1012757": {
+    "name": "트와일라이트 마크",
+    "set_item_id": 869,
+    "type": 2,
+    "level": 140,
+    "str": 5,
+    "dex": 5,
+    "int": 5,
+    "luk": 5,
+    "patk": 5,
+    "matk": 5,
+    "upgrade_count": 3
   },
   "1022231": {
     "name": "아쿠아틱 레터 눈장식",
@@ -356,19 +419,6 @@
     "matk": 2,
     "upgrade_count": 5
   },
-  "1032241": {
-    "name": "데아 시두스 이어링",
-    "set_item_id": 462,
-    "type": 4,
-    "level": 130,
-    "str": 5,
-    "dex": 5,
-    "int": 5,
-    "luk": 5,
-    "patk": 2,
-    "matk": 2,
-    "upgrade_count": 6
-  },
   "1032200": {
     "name": "마이스터 이어링",
     "set_item_id": 287,
@@ -384,6 +434,48 @@
     "matk": 4,
     "upgrade_count": 6
   },
+  "1032216": {
+    "name": "스칼렛 이어링",
+    "joker": 1,
+    "type": 4,
+    "level": 135,
+    "str": 6,
+    "dex": 6,
+    "int": 6,
+    "luk": 6,
+    "max_hp": 200,
+    "max_mp": 200,
+    "patk": 3,
+    "matk": 3,
+    "upgrade_count": 6
+  },
+  "1032232": {
+    "name": "오션 글로우 이어링",
+    "type": 4,
+    "level": 150,
+    "str": 7,
+    "dex": 7,
+    "int": 7,
+    "luk": 7,
+    "patk": 5,
+    "matk": 5,
+    "max_hp": 750,
+    "max_mp": 750,
+    "upgrade_count": 7
+  },
+  "1032241": {
+    "name": "데아 시두스 이어링",
+    "set_item_id": 462,
+    "type": 4,
+    "level": 130,
+    "str": 5,
+    "dex": 5,
+    "int": 5,
+    "luk": 5,
+    "patk": 2,
+    "matk": 2,
+    "upgrade_count": 6
+  },
   "1032316": {
     "name": "커맨더 포스 이어링",
     "set_item_id": 677,
@@ -397,6 +489,21 @@
     "matk": 5,
     "max_hp": 500,
     "max_mp": 500,
+    "upgrade_count": 6
+  },
+  "1032330": {
+    "name": "에스텔라 이어링",
+    "set_item_id": 869,
+    "type": 4,
+    "level": 160,
+    "str": 7,
+    "dex": 7,
+    "int": 7,
+    "luk": 7,
+    "patk": 2,
+    "matk": 2,
+    "max_hp": 300,
+    "max_mp": 300,
     "upgrade_count": 6
   },
   "1042254": {
@@ -1129,6 +1236,21 @@
     "matk": 1,
     "upgrade_count": 1
   },
+  "1113070": {
+    "name": "스칼렛 링",
+    "joker": 1,
+    "type": 11,
+    "level": 135,
+    "str": 4,
+    "dex": 4,
+    "int": 4,
+    "luk": 4,
+    "max_hp": 150,
+    "max_mp": 150,
+    "patk": 1,
+    "matk": 1,
+    "upgrade_count": 1
+  },
   "1113149": {
     "name": "실버블라썸 링",
     "set_item_id": 462,
@@ -1187,6 +1309,21 @@
     "matk": 2,
     "upgrade_count": 2
   },
+  "1113316": {
+    "name": "여명의 가디언 엔젤 링",
+    "set_item_id": 869,
+    "type": 11,
+    "level": 160,
+    "str": 5,
+    "dex": 5,
+    "int": 5,
+    "luk": 5,
+    "max_hp": 200,
+    "max_mp": 200,
+    "patk": 2,
+    "matk": 2,
+    "upgrade_count": 2
+  },
   "1122000": {
     "name": "혼테일의 목걸이",
     "set_item_id": 462,
@@ -1214,6 +1351,56 @@
     "matk": 2,
     "upgrade_count": 3,
     "block_hammer": 1
+  },
+  "1122091": {
+    "name": "베어스 퍼플 펜던트",
+    "type": 13,
+    "level": 130,
+    "str": 16,
+    "max_hp": 180,
+    "max_mp": 180,
+    "upgrade_count": 3
+  },
+  "1122095": {
+    "name": "아울스 퍼플 펜던트",
+    "type": 13,
+    "level": 130,
+    "int": 16,
+    "max_hp": 180,
+    "max_mp": 180,
+    "upgrade_count": 3
+  },
+  "1122099": {
+    "name": "울프스 퍼플 펜던트",
+    "type": 13,
+    "level": 130,
+    "dex": 16,
+    "max_hp": 180,
+    "max_mp": 180,
+    "upgrade_count": 3
+  },
+  "1122103": {
+    "name": "피콕스 퍼플 펜던트",
+    "type": 13,
+    "level": 130,
+    "luk": 16,
+    "max_hp": 180,
+    "max_mp": 180,
+    "upgrade_count": 3
+  },
+  "1122104": {
+    "name": "라이징 썬 펜던트",
+    "type": 13,
+    "level": 130,
+    "str": 16,
+    "dex": 16,
+    "int": 16,
+    "luk": 16,
+    "max_hp": 180,
+    "max_mp": 180,
+    "patk": 2,
+    "matk": 2,
+    "upgrade_count": 4
   },
   "1122150": {
     "name": "도미네이터 펜던트",
@@ -1257,6 +1444,20 @@
     "hp_rate": 5,
     "patk": 3,
     "matk": 3,
+    "upgrade_count": 5
+  },
+  "1122443": {
+    "name": "데이브레이크 펜던트",
+    "set_item_id": 869,
+    "type": 13,
+    "level": 140,
+    "str": 8,
+    "dex": 8,
+    "int": 8,
+    "luk": 8,
+    "hp_rate": 5,
+    "patk": 2,
+    "matk": 2,
     "upgrade_count": 5
   },
   "1132174": {
@@ -1398,6 +1599,20 @@
     "luk": 13,
     "patk": 9,
     "matk": 9,
+    "upgrade_count": 1
+  },
+  "1152155": {
+    "name": "스칼렛 숄더",
+    "joker": 1,
+    "type": 16,
+    "level": 135,
+    "str": 12,
+    "dex": 12,
+    "int": 12,
+    "luk": 12,
+    "max_hp": 400,
+    "patk": 7,
+    "matk": 7,
     "upgrade_count": 1
   },
   "1152170": {
