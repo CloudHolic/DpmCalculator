@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Models\Types.fs" />
+    <Compile Include="Models\Item.fs" />
     <Content Include="Data\SetData.json" />
     <Content Include="Data\ItemData.json" />
     <Compile Include="Library.fs" />

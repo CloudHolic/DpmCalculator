@@ -1873,6 +1873,109 @@
     "matk": 6,
     "upgrade_count": 3
   },
+  "1142145": {
+    "name": "프리미엄 PC방",
+    "type": 15,
+    "str": 8,
+    "dex": 8,
+    "int": 8,
+    "luk": 8,
+    "max_hp": 300,
+    "max_mp": 300,
+    "patk": 10,
+    "matk": 10
+  },
+  "1142877": {
+    "name": "닐리리야 니나노",
+    "type": 15,
+    "level": 130,
+    "str": 9,
+    "dex": 9,
+    "int": 9,
+    "luk": 9,
+    "patk": 6,
+    "matk": 6
+  },
+  "1142879": {
+    "name": "우르스 격파왕",
+    "type": 15,
+    "str": 7,
+    "dex": 7,
+    "int": 7,
+    "luk": 7,
+    "patk": 7,
+    "matk": 7
+  },
+  "1142880": {
+    "name": "신의 컨트롤 보유자",
+    "type": 15,
+    "level": 100,
+    "str": 8,
+    "dex": 8,
+    "int": 8,
+    "luk": 8,
+    "patk": 8,
+    "matk": 8
+  },
+  "1142913": {
+    "name": "본 투 비 골드",
+    "type": 15,
+    "str": 3,
+    "dex": 3,
+    "int": 3,
+    "luk": 3,
+    "patk": 3,
+    "matk": 3
+  },
+  "1142909": {
+    "name": "프리토의 친구",
+    "type": 15,
+    "str": 10,
+    "dex": 10,
+    "int": 10,
+    "luk": 10,
+    "max_hp": 500,
+    "max_mp": 500,
+    "patk": 3,
+    "matk": 3
+  },
+  "1142910": {
+    "name": "폴로의 친구",
+    "type": 15,
+    "str": 15,
+    "dex": 15,
+    "int": 15,
+    "luk": 15,
+    "max_hp": 1000,
+    "max_mp": 1000,
+    "patk": 5,
+    "matk": 5
+  },
+  "1142914": {
+    "name": "본 투 비 다이아",
+    "type": 15,
+    "str": 5,
+    "dex": 5,
+    "int": 5,
+    "luk": 5,
+    "max_hp": 500,
+    "max_mp": 500,
+    "patk": 5,
+    "matk": 5
+  },
+  "1143203": {
+    "name": "본 투 비 레드",
+    "type": 15,
+    "str": 7,
+    "dex": 7,
+    "int": 7,
+    "luk": 7,
+    "max_hp": 700,
+    "max_mp": 700,
+    "patk": 7,
+    "matk": 7,
+    "boss_damage": 5
+  },
   "1142922": {
     "name": "칠요의 몬스터파커",
     "set_item_id": 584,
@@ -1885,6 +1988,19 @@
     "patk": 7,
     "matk": 7,
     "armor_ignore": 10
+  },
+  "1143136": {
+    "name": "미궁의 깊이를 아는 자",
+    "type": 15,
+    "level": 200,
+    "str": 15,
+    "dex": 15,
+    "int": 15,
+    "luk": 15,
+    "max_hp": 1000,
+    "max_mp": 1000,
+    "patk": 5,
+    "matk": 5
   },
   "1152154": {
     "name": "마이스터 숄더",
@@ -5128,5 +5244,183 @@
     "job": [ 31 ],
     "level": 125,
     "upgrade_count": 4
+  },
+  "3700287": {
+    "name": "핑아일체",
+    "type": 23,
+    "str": 10,
+    "dex": 10,
+    "int": 10,
+    "luk": 10,
+    "patk": 5,
+    "matk": 5,
+    "boss_damage": 10
+  },
+  "3700334": {
+    "name": "파왕 파멸자",
+    "type": 23,
+    "str": 5,
+    "dex": 5,
+    "int": 5,
+    "luk": 5,
+    "max_hp": 200,
+    "patk": 5,
+    "matk": 5,
+    "armor_ignore": 5
+  },
+  "3700338": {
+    "name": "메이플을 잘 아는",
+    "type": 23,
+    "str": 10,
+    "dex": 10,
+    "int": 10,
+    "luk": 10,
+    "patk": 5,
+    "matk": 5,
+    "armor_ignore": 10
+  },
+  "3700339": {
+    "name": "킹 오브 루타비스",
+    "type": 23,
+    "str": 8,
+    "dex": 8,
+    "int": 8,
+    "luk": 8,
+    "max_hp": 300,
+    "max_mp": 300,
+    "patk": 3,
+    "matk": 3,
+    "armor_ignore": 5,
+    "boss_damage": 5
+  },
+  "3700341": {
+    "name": "MVP 브론즈 I",
+    "type": 23,
+    "patk": 1,
+    "matk": 1
+  },
+  "3700342": {
+    "name": "MVP 브론즈 II",
+    "type": 23,
+    "str": 4,
+    "dex": 4,
+    "int": 4,
+    "luk": 4,
+    "patk": 2,
+    "matk": 2
+  },
+  "3700343": {
+    "name": "MVP 브론즈 III",
+    "type": 23,
+    "str": 5,
+    "dex": 5,
+    "int": 5,
+    "luk": 5,
+    "patk": 3,
+    "matk": 3
+  },
+  "3700344": {
+    "name": "MVP 브론즈 IV",
+    "type": 23,
+    "str": 6,
+    "dex": 6,
+    "int": 6,
+    "luk": 6,
+    "patk": 4,
+    "matk": 4
+  },
+  "3700345": {
+    "name": "MVP 실버",
+    "type": 23,
+    "str": 7,
+    "dex": 7,
+    "int": 7,
+    "luk": 7,
+    "max_hp": 500,
+    "max_mp": 500,
+    "patk": 5,
+    "matk": 5
+  },
+  "3700346": {
+    "name": "MVP 골드",
+    "type": 23,
+    "str": 8,
+    "dex": 8,
+    "int": 8,
+    "luk": 8,
+    "max_hp": 500,
+    "max_mp": 500,
+    "patk": 7,
+    "matk": 7
+  },
+  "3700347": {
+    "name": "MVP 다이아",
+    "type": 23,
+    "str": 10,
+    "dex": 10,
+    "int": 10,
+    "luk": 10,
+    "max_hp": 500,
+    "max_mp": 500,
+    "patk": 10,
+    "matk": 10,
+    "armor_ignore": 6
+  },
+  "3700625": {
+    "name": "MVP 레드",
+    "type": 23,
+    "str": 10,
+    "dex": 10,
+    "int": 10,
+    "luk": 10,
+    "max_hp": 1000,
+    "max_mp": 1000,
+    "patk": 10,
+    "matk": 10,
+    "armor_ignore": 8
+  },
+  "3700682": {
+    "name": "예아일체",
+    "type": 23,
+    "str": 10,
+    "dex": 10,
+    "int": 10,
+    "luk": 10,
+    "patk": 5,
+    "matk": 5,
+    "boss_damage": 10
+  },
+  "3700683": {
+    "name": "예티X핑크빈",
+    "type": 23,
+    "str": 20,
+    "dex": 20,
+    "int": 20,
+    "luk": 20,
+    "patk": 10,
+    "matk": 10,
+    "boss_damage": 10
+  },
+  "3700718": {
+    "name": "진 악마",
+    "type": 23,
+    "patk": 30,
+    "matk": 30,
+    "armor_ignore": 30,
+    "boss_damage": 30
+  },
+  "3700720": {
+    "name": "헤이스트",
+    "type": 23,
+    "str": 50,
+    "dex": 50,
+    "int": 50,
+    "luk": 50,
+    "max_hp": 2500,
+    "max_mp": 2500,
+    "patk": 20,
+    "matk": 20,
+    "armor_ignore": 30,
+    "boss_damage": 30
   }
 }

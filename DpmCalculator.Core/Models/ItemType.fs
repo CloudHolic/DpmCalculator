@@ -1,0 +1,37 @@
+﻿namespace DpmCalculator.Core.Models
+
+module ItemType =
+    type ItemEnum =
+        | Cap = 1
+        | FaceAccessory = 2
+        | EyeAccessory = 3
+        | Earrings = 4
+        | Coat = 5
+        | LongCoat = 6
+        | Pants = 7
+        | Shoes = 8
+        | Gloves = 9
+        | Cape = 10
+        | Ring = 11
+        | SeedRing = 12
+        | Pendant = 13
+        | Belt = 14
+        | Medal = 15
+        | ShoulderPad = 16
+        | Pocket = 17
+        | Badge = 18
+        | Heart = 19
+        | Emblem = 20
+        | Weapon = 21
+        | SubWeapon = 22
+        | Title = 23
+        | PetEquip = 24
+        | DragonMask = 25
+        | DragonPendant = 26
+        | DragonWings = 27
+        | DragonTail = 28
+        | MachineEngine = 29
+        | MachineArms = 30
+        | MachineLegs = 31
+        | MachineFrame = 32
+        | MachineTransistors = 33
