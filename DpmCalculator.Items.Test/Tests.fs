@@ -22,6 +22,6 @@ module Tests =
         let data =
             @"C:\Projects\DpmCalculator\DpmCalculator.Items\Data\SetData.json"
             |> File.ReadAllText
-            |> Json.deserialize<SetEffectBase list>
+            |> Json.deserialize<SetBase list>
 
         printfn "%A" data

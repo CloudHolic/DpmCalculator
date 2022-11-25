@@ -47,7 +47,7 @@ module SetEffect =
         CritDamage: int        
     }
 
-    type SetEffectBase = {
+    type SetBase = {
         [<JsonField("name")>]
         Name: string
         
