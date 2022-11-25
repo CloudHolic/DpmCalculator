@@ -1,0 +1,31 @@
+[
+	{
+		"name": "카오스 벨룸의 헬름",
+		"item_code": 1003722,
+		"joker": true,
+		"type": 1,
+		"level": 140,
+		"str": 23,
+		"dex": 23,
+		"int": 23,
+		"luk": 23,
+		"patk": 1,
+		"matk": 1,
+		"upgrade_count": 11
+	},
+	{
+		"name": "하이네스 워리어헬름",
+		"item_code": 1003797,
+		"set_code": 247,
+		"type": 1,
+		"job_branch": 1,
+		"level": 150,
+		"str": 40,
+		"dex": 40,
+		"max_hp": 360,
+		"max_mp": 360,
+		"patk": 2,
+		"armor_ignore": 10,
+		"upgrade_count": 11
+	}
+]

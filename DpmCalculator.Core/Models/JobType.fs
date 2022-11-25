@@ -7,6 +7,7 @@ module JobType =
         | Bowman = 3
         | Thief = 4
         | Pirate = 5
+        | All = 6
 
     type JobClassEnum =
         | Adventurer = 1
@@ -19,6 +20,7 @@ module JobType =
         | Anima = 8
         | Zero = 9
         | Kinesis = 10
+        | All = 11
 
     type JobEnum =
         | Hero = 1
@@ -66,3 +68,4 @@ module JobType =
         | Hoyoung = 43
         | Zero = 44
         | Kinesis = 45
+        | All = 46

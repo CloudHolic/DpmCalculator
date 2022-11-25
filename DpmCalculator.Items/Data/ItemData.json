@@ -1,7 +1,8 @@
-﻿{
-  "1003722": {
+﻿[
+  {
     "name": "카오스 벨룸의 헬름",
-    "joker": 1,
+    "item_code": 1003722,
+    "joker": true,
     "type": 1,
     "level": 140,
     "str": 23,
@@ -12,9 +13,10 @@
     "matk": 1,
     "upgrade_count": 11
   },
-  "1003797": {
+  {
     "name": "하이네스 워리어헬름",
-    "set_item_id": 247,
+    "item_code": 1003797,
+    "set_code": 247,
     "type": 1,
     "job_branch": 1,
     "level": 150,
@@ -26,9 +28,10 @@
     "armor_ignore": 10,
     "upgrade_count": 11
   },
-  "1003798": {
+  {
     "name": "하이네스 던위치햇",
-    "set_item_id": 248,
+    "item_code": 1003798,
+    "set_code": 248,
     "type": 1,
     "job_branch": 2,
     "level": 150,
@@ -40,9 +43,10 @@
     "armor_ignore": 10,
     "upgrade_count": 11
   },
-  "1003799": {
+  {
     "name": "하이네스 레인져베레",
-    "set_item_id": 249,
+    "item_code": 1003799,
+    "set_code": 249,
     "type": 1,
     "job_branch": 3,
     "level": 150,
@@ -54,9 +58,10 @@
     "armor_ignore": 10,
     "upgrade_count": 11
   },
-  "1003800": {
+  {
     "name": "하이네스 어새신보닛",
-    "set_item_id": 250,
+    "item_code": 1003800,
+    "set_code": 250,
     "type": 1,
     "job_branch": 4,
     "level": 150,
@@ -68,9 +73,10 @@
     "armor_ignore": 10,
     "upgrade_count": 11
   },
-  "1003801": {
+  {
     "name": "하이네스 원더러햇",
-    "set_item_id": 251,
+    "item_code": 1003801,
+    "set_code": 251,
     "type": 1,
     "job_branch": 5,
     "level": 150,
@@ -82,9 +88,10 @@
     "armor_ignore": 10,
     "upgrade_count": 11
   },
-  "1004422": {
+  {
     "name": "앱솔랩스 나이트헬름",
-    "set_item_id": 504,
+    "item_code": 1004422,
+    "set_code": 504,
     "type": 1,
     "job_branch": 1,
     "level": 160,
@@ -94,9 +101,10 @@
     "armor_ignore": 10,
     "upgrade_count": 11
   },
-  "1004423": {
+  {
     "name": "앱솔랩스 메이지크라운",
-    "set_item_id": 505,
+    "item_code": 1004423,
+    "set_code": 505,
     "type": 1,
     "job_branch": 2,
     "level": 160,
@@ -106,9 +114,10 @@
     "armor_ignore": 10,
     "upgrade_count": 11
   },
-  "1004424": {
+  {
     "name": "앱솔랩스 아처후드",
-    "set_item_id": 506,
+    "item_code": 1004424,
+    "set_code": 506,
     "type": 1,
     "job_branch": 3,
     "level": 160,
@@ -118,9 +127,10 @@
     "armor_ignore": 10,
     "upgrade_count": 11
   },
-  "1004425": {
+  {
     "name": "앱솔랩스 시프캡",
-    "set_item_id": 507,
+    "item_code": 1004425,
+    "set_code": 507,
     "type": 1,
     "job_branch": 4,
     "level": 160,
@@ -130,9 +140,10 @@
     "armor_ignore": 10,
     "upgrade_count": 11
   },
-  "1004426": {
+  {
     "name": "앱솔랩스 파이렛페도라",
-    "set_item_id": 508,
+    "item_code": 1004426,
+    "set_code": 508,
     "type": 1,
     "job_branch": 5,
     "level": 160,
@@ -142,9 +153,10 @@
     "armor_ignore": 10,
     "upgrade_count": 11
   },
-  "1004808": {
+  {
     "name": "아케인셰이드 나이트햇",
-    "set_item_id": 617,
+    "item_code": 1004808,
+    "set_code": 617,
     "type": 1,
     "job_branch": 1,
     "level": 200,
@@ -154,9 +166,10 @@
     "armor_ignore": 15,
     "upgrade_count": 11
   },
-  "1004809": {
+  {
     "name": "아케인셰이드 메이지햇",
-    "set_item_id": 618,
+    "item_code": 1004809,
+    "set_code": 618,
     "type": 1,
     "job_branch": 2,
     "level": 200,
@@ -166,9 +179,10 @@
     "armor_ignore": 15,
     "upgrade_count": 11
   },
-  "1004810": {
+  {
     "name": "아케인셰이드 아처햇",
-    "set_item_id": 619,
+    "item_code": 1004810,
+    "set_code": 619,
     "type": 1,
     "job_branch": 3,
     "level": 200,
@@ -178,9 +192,10 @@
     "armor_ignore": 15,
     "upgrade_count": 11
   },
-  "1004811": {
+  {
     "name": "아케인셰이드 시프햇",
-    "set_item_id": 620,
+    "item_code": 1004811,
+    "set_code": 620,
     "type": 1,
     "job_branch": 4,
     "level": 200,
@@ -190,9 +205,10 @@
     "armor_ignore": 15,
     "upgrade_count": 11
   },
-  "1004812": {
+  {
     "name": "아케인셰이드 파이렛햇",
-    "set_item_id": 621,
+    "item_code": 1004812,
+    "set_code": 621,
     "type": 1,
     "job_branch": 5,
     "level": 200,
@@ -202,9 +218,10 @@
     "armor_ignore": 15,
     "upgrade_count": 11
   },
-  "1005980": {
+  {
     "name": "에테르넬 나이트헬름",
-    "set_item_id": 886,
+    "item_code": 1005980,
+    "set_code": 886,
     "type": 1,
     "job_branch": 1,
     "level": 250,
@@ -214,9 +231,10 @@
     "armor_ignore": 15,
     "upgrade_count": 11
   },
-  "1005981": {
+  {
     "name": "에테르넬 메이지햇",
-    "set_item_id": 887,
+    "item_code": 1005981,
+    "set_code": 887,
     "type": 1,
     "job_branch": 2,
     "level": 250,
@@ -226,9 +244,10 @@
     "armor_ignore": 15,
     "upgrade_count": 11
   },
-  "1005982": {
+  {
     "name": "에테르넬 아처햇",
-    "set_item_id": 888,
+    "item_code": 1005982,
+    "set_code": 888,
     "type": 1,
     "job_branch": 3,
     "level": 250,
@@ -238,9 +257,10 @@
     "armor_ignore": 15,
     "upgrade_count": 11
   },
-  "1005983": {
+  {
     "name": "에테르넬 시프반다나",
-    "set_item_id": 889,
+    "item_code": 1005983,
+    "set_code": 889,
     "type": 1,
     "job_branch": 4,
     "level": 250,
@@ -250,9 +270,10 @@
     "armor_ignore": 15,
     "upgrade_count": 11
   },
-  "1005984": {
+  {
     "name": "에테르넬 파이렛햇",
-    "set_item_id": 890,
+    "item_code": 1005984,
+    "set_code": 890,
     "type": 1,
     "job_branch": 5,
     "level": 250,
@@ -262,8 +283,9 @@
     "armor_ignore": 15,
     "upgrade_count": 11
   },
-  "1012406": {
+  {
     "name": "샤이니 레드 워리어 마이스터 심볼",
+    "item_code": 1012406,
     "type": 2,
     "job_branch": 1,
     "level": 130,
@@ -272,8 +294,9 @@
     "patk": 3,
     "upgrade_count": 1
   },
-  "1012407": {
+  {
     "name": "샤이니 레드 매지션 마이스터 심볼",
+    "item_code": 1012407,
     "type": 2,
     "job_branch": 2,
     "level": 130,
@@ -282,8 +305,9 @@
     "matk": 3,
     "upgrade_count": 1
   },
-  "1012408": {
+  {
     "name": "샤이니 레드 아처 마이스터 심볼",
+    "item_code": 1012408,
     "type": 2,
     "job_branch": 3,
     "level": 130,
@@ -292,8 +316,9 @@
     "patk": 3,
     "upgrade_count": 1
   },
-  "1012409": {
+  {
     "name": "샤이니 레드 시프 마이스터 심볼",
+    "item_code": 1012409,
     "type": 2,
     "job_branch": 4,
     "level": 130,
@@ -302,8 +327,9 @@
     "patk": 3,
     "upgrade_count": 1
   },
-  "1012410": {
+  {
     "name": "샤이니 레드 파이렛 마이스터 심볼",
+    "item_code": 1012410,
     "type": 2,
     "job_branch": 5,
     "level": 130,
@@ -312,9 +338,10 @@
     "patk": 3,
     "upgrade_count": 1
   },
-  "1012478": {
+  {
     "name": "응축된 힘의 결정석",
-    "set_item_id": 462,
+    "item_code": 1012478,
+    "set_code": 462,
     "type": 2,
     "level": 110,
     "str": 5,
@@ -325,9 +352,10 @@
     "matk": 5,
     "upgrade_count": 5
   },
-  "1012632": {
+  {
     "name": "루즈 컨트롤 머신 마크",
-    "set_item_id": 677,
+    "item_code": 1012632,
+    "set_code": 677,
     "type": 2,
     "level": 160,
     "str": 10,
@@ -338,9 +366,10 @@
     "matk": 10,
     "upgrade_count": 5
   },
-  "1012757": {
+  {
     "name": "트와일라이트 마크",
-    "set_item_id": 869,
+    "item_code": 1012757,
+    "set_code": 869,
     "type": 2,
     "level": 140,
     "str": 5,
@@ -351,9 +380,10 @@
     "matk": 5,
     "upgrade_count": 3
   },
-  "1022231": {
+  {
     "name": "아쿠아틱 레터 눈장식",
-    "set_item_id": 462,
+    "item_code": 1022231,
+    "set_code": 462,
     "type": 3,
     "level": 100,
     "str": 6,
@@ -364,9 +394,10 @@
     "matk": 1,
     "upgrade_count": 3
   },
-  "1022232": {
+  {
     "name": "블랙빈 마크",
-    "set_item_id": 462,
+    "item_code": 1022232,
+    "set_code": 462,
     "type": 3,
     "level": 135,
     "str": 7,
@@ -377,9 +408,10 @@
     "matk": 1,
     "upgrade_count": 5
   },
-  "1022277": {
+  {
     "name": "파풀라투스 마크",
-    "set_item_id": 462,
+    "item_code": 1022277,
+    "set_code": 462,
     "type": 3,
     "level": 145,
     "str": 8,
@@ -390,9 +422,10 @@
     "matk": 1,
     "upgrade_count": 5
   },
-  "1022278": {
+  {
     "name": "마력이 깃든 안대",
-    "set_item_id": 677,
+    "item_code": 1022278,
+    "set_code": 677,
     "type": 3,
     "level": 160,
     "str": 15,
@@ -403,9 +436,10 @@
     "matk": 3,
     "upgrade_count": 3
   },
-  "1032136": {
+  {
     "name": "지옥의 불꽃",
-    "set_item_id": 462,
+    "item_code": 1032136,
+    "set_code": 462,
     "type": 4,
     "level": 130,
     "str": 7,
@@ -418,9 +452,10 @@
     "matk": 2,
     "upgrade_count": 5
   },
-  "1032200": {
+  {
     "name": "마이스터 이어링",
-    "set_item_id": 287,
+    "item_code": 1032200,
+    "set_code": 287,
     "type": 4,
     "level": 140,
     "str": 5,
@@ -433,9 +468,10 @@
     "matk": 4,
     "upgrade_count": 6
   },
-  "1032216": {
+  {
     "name": "스칼렛 이어링",
-    "joker": 1,
+    "item_code": 1032216,
+    "joker": true,
     "type": 4,
     "level": 135,
     "str": 6,
@@ -448,8 +484,9 @@
     "matk": 3,
     "upgrade_count": 6
   },
-  "1032232": {
+  {
     "name": "오션 글로우 이어링",
+    "item_code": 1032232,
     "type": 4,
     "level": 150,
     "str": 7,
@@ -462,9 +499,10 @@
     "max_mp": 750,
     "upgrade_count": 7
   },
-  "1032241": {
+  {
     "name": "데아 시두스 이어링",
-    "set_item_id": 462,
+    "item_code": 1032241,
+    "set_code": 462,
     "type": 4,
     "level": 130,
     "str": 5,
@@ -475,9 +513,10 @@
     "matk": 2,
     "upgrade_count": 6
   },
-  "1032316": {
+  {
     "name": "커맨더 포스 이어링",
-    "set_item_id": 677,
+    "item_code": 1032316,
+    "set_code": 677,
     "type": 4,
     "level": 200,
     "str": 7,
@@ -490,9 +529,10 @@
     "max_mp": 500,
     "upgrade_count": 6
   },
-  "1032330": {
+  {
     "name": "에스텔라 이어링",
-    "set_item_id": 869,
+    "item_code": 1032330,
+    "set_code": 869,
     "type": 4,
     "level": 160,
     "str": 7,
@@ -505,9 +545,10 @@
     "max_mp": 300,
     "upgrade_count": 6
   },
-  "1042254": {
+  {
     "name": "이글아이 워리어아머",
-    "set_item_id": 247,
+    "item_code": 1042254,
+    "set_code": 247,
     "type": 5,
     "job_branch": 1,
     "level": 150,
@@ -517,9 +558,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1042255": {
+  {
     "name": "이글아이 던위치로브",
-    "set_item_id": 248,
+    "item_code": 1042255,
+    "set_code": 248,
     "type": 5,
     "job_branch": 2,
     "level": 150,
@@ -529,9 +571,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1042256": {
+  {
     "name": "이글아이 레인져후드",
-    "set_item_id": 249,
+    "item_code": 1042256,
+    "set_code": 249,
     "type": 5,
     "job_branch": 3,
     "level": 150,
@@ -541,9 +584,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1042257": {
+  {
     "name": "이글아이 어새신셔츠",
-    "set_item_id": 250,
+    "item_code": 1042257,
+    "set_code": 250,
     "type": 5,
     "job_branch": 4,
     "level": 150,
@@ -553,9 +597,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1042258": {
+  {
     "name": "이글아이 원더러코트",
-    "set_item_id": 251,
+    "item_code": 1042258,
+    "set_code": 251,
     "type": 5,
     "job_branch": 5,
     "level": 150,
@@ -565,9 +610,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1042433": {
+  {
     "name": "에테르넬 나이트아머",
-    "set_item_id": 886,
+    "item_code": 1042433,
+    "set_code": 886,
     "type": 5,
     "job_branch": 1,
     "level": 250,
@@ -577,9 +623,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1042434": {
+  {
     "name": "에테르넬 메이지로브",
-    "set_item_id": 887,
+    "item_code": 1042434,
+    "set_code": 887,
     "type": 5,
     "job_branch": 2,
     "level": 250,
@@ -589,9 +636,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1042435": {
+  {
     "name": "에테르넬 아처후드",
-    "set_item_id": 888,
+    "item_code": 1042435,
+    "set_code": 888,
     "type": 5,
     "job_branch": 3,
     "level": 250,
@@ -601,9 +649,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1042436": {
+  {
     "name": "에테르넬 시프셔츠",
-    "set_item_id": 889,
+    "item_code": 1042436,
+    "set_code": 889,
     "type": 5,
     "job_branch": 4,
     "level": 250,
@@ -613,9 +662,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1042437": {
+  {
     "name": "에테르넬 파이렛코트",
-    "set_item_id": 890,
+    "item_code": 1042437,
+    "set_code": 890,
     "type": 5,
     "job_branch": 5,
     "level": 250,
@@ -625,9 +675,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1052882": {
+  {
     "name": "앱솔랩스 나이트슈트",
-    "set_item_id": 504,
+    "item_code": 1052882,
+    "set_code": 504,
     "type": 6,
     "job_branch": 1,
     "level": 160,
@@ -636,9 +687,10 @@
     "patk": 5,
     "upgrade_count": 12
   },
-  "1052887": {
+  {
     "name": "앱솔랩스 메이지슈트",
-    "set_item_id": 505,
+    "item_code": 1052887,
+    "set_code": 505,
     "type": 6,
     "job_branch": 2,
     "level": 160,
@@ -647,9 +699,10 @@
     "matk": 5,
     "upgrade_count": 12
   },
-  "1052888": {
+  {
     "name": "앱솔랩스 아처슈트",
-    "set_item_id": 506,
+    "item_code": 1052888,
+    "set_code": 506,
     "type": 6,
     "job_branch": 3,
     "level": 160,
@@ -658,9 +711,10 @@
     "patk": 5,
     "upgrade_count": 12
   },
-  "1052889": {
+  {
     "name": "앱솔랩스 시프슈트",
-    "set_item_id": 507,
+    "item_code": 1052889,
+    "set_code": 507,
     "type": 6,
     "job_branch": 4,
     "level": 160,
@@ -669,9 +723,10 @@
     "patk": 5,
     "upgrade_count": 12
   },
-  "1052890": {
+  {
     "name": "앱솔랩스 파이렛슈트",
-    "set_item_id": 508,
+    "item_code": 1052890,
+    "set_code": 508,
     "type": 6,
     "job_branch": 5,
     "level": 160,
@@ -680,9 +735,10 @@
     "patk": 5,
     "upgrade_count": 12
   },
-  "1053063": {
+  {
     "name": "아케인셰이드 나이트슈트",
-    "set_item_id": 617,
+    "item_code": 1053063,
+    "set_code": 617,
     "type": 6,
     "job_branch": 1,
     "level": 200,
@@ -692,9 +748,10 @@
     "armor_ignore": 10,
     "upgrade_count": 12
   },
-  "1053064": {
+  {
     "name": "아케인셰이드 메이지슈트",
-    "set_item_id": 618,
+    "item_code": 1053064,
+    "set_code": 618,
     "type": 6,
     "job_branch": 2,
     "level": 200,
@@ -704,9 +761,10 @@
     "armor_ignore": 10,
     "upgrade_count": 12
   },
-  "1053065": {
+  {
     "name": "아케인셰이드 아처슈트",
-    "set_item_id": 619,
+    "item_code": 1053065,
+    "set_code": 619,
     "type": 6,
     "job_branch": 3,
     "level": 200,
@@ -716,9 +774,10 @@
     "armor_ignore": 10,
     "upgrade_count": 12
   },
-  "1053066": {
+  {
     "name": "아케인셰이드 시프슈트",
-    "set_item_id": 620,
+    "item_code": 1053066,
+    "set_code": 620,
     "type": 6,
     "job_branch": 4,
     "level": 200,
@@ -728,9 +787,10 @@
     "armor_ignore": 10,
     "upgrade_count": 12
   },
-  "1053067": {
+  {
     "name": "아케인셰이드 파이렛슈트",
-    "set_item_id": 621,
+    "item_code": 1053067,
+    "set_code": 621,
     "type": 6,
     "job_branch": 5,
     "level": 200,
@@ -740,9 +800,10 @@
     "armor_ignore": 10,
     "upgrade_count": 12
   },
-  "1062165": {
+  {
     "name": "트릭스터 워리어팬츠",
-    "set_item_id": 247,
+    "item_code": 1062165,
+    "set_code": 247,
     "type": 7,
     "job_branch": 1,
     "level": 150,
@@ -752,9 +813,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1062166": {
+  {
     "name": "트릭스터 던위치팬츠",
-    "set_item_id": 248,
+    "item_code": 1062166,
+    "set_code": 248,
     "type": 7,
     "job_branch": 2,
     "level": 150,
@@ -764,9 +826,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1062167": {
+  {
     "name": "트릭스터 레인져팬츠",
-    "set_item_id": 249,
+    "item_code": 1062167,
+    "set_code": 249,
     "type": 7,
     "job_branch": 3,
     "level": 150,
@@ -776,9 +839,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1062168": {
+  {
     "name": "트릭스터 어새신팬츠",
-    "set_item_id": 250,
+    "item_code": 1062168,
+    "set_code": 250,
     "type": 7,
     "job_branch": 4,
     "level": 150,
@@ -788,9 +852,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1062169": {
+  {
     "name": "트릭스터 원더러팬츠",
-    "set_item_id": 251,
+    "item_code": 1062169,
+    "set_code": 251,
     "type": 7,
     "job_branch": 5,
     "level": 150,
@@ -800,9 +865,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1062285": {
+  {
     "name": "에테르넬 워리어팬츠",
-    "set_item_id": 886,
+    "item_code": 1062285,
+    "set_code": 886,
     "type": 7,
     "job_branch": 1,
     "level": 250,
@@ -812,9 +878,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1062286": {
+  {
     "name": "에테르넬 메이지팬츠",
-    "set_item_id": 887,
+    "item_code": 1062286,
+    "set_code": 887,
     "type": 7,
     "job_branch": 2,
     "level": 250,
@@ -824,9 +891,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1062287": {
+  {
     "name": "에테르넬 아처팬츠",
-    "set_item_id": 888,
+    "item_code": 1062287,
+    "set_code": 888,
     "type": 7,
     "job_branch": 3,
     "level": 250,
@@ -836,9 +904,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1062288": {
+  {
     "name": "에테르넬 시프팬츠",
-    "set_item_id": 889,
+    "item_code": 1062288,
+    "set_code": 889,
     "type": 7,
     "job_branch": 4,
     "level": 250,
@@ -848,9 +917,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1062289": {
+  {
     "name": "에테르넬 파이렛팬츠",
-    "set_item_id": 890,
+    "item_code": 1062289,
+    "set_code": 890,
     "type": 7,
     "job_branch": 5,
     "level": 250,
@@ -860,9 +930,10 @@
     "armor_ignore": 5,
     "upgrade_count": 7
   },
-  "1073030": {
+  {
     "name": "앱솔랩스 나이트슈즈",
-    "set_item_id": 504,
+    "item_code": 1073030,
+    "set_code": 504,
     "type": 8,
     "job_branch": 1,
     "level": 160,
@@ -871,9 +942,10 @@
     "patk": 5,
     "upgrade_count": 7
   },
-  "1073032": {
+  {
     "name": "앱솔랩스 메이지슈즈",
-    "set_item_id": 505,
+    "item_code": 1073032,
+    "set_code": 505,
     "type": 8,
     "job_branch": 2,
     "level": 160,
@@ -882,9 +954,10 @@
     "matk": 5,
     "upgrade_count": 7
   },
-  "1073033": {
+  {
     "name": "앱솔랩스 아처슈즈",
-    "set_item_id": 506,
+    "item_code": 1073033,
+    "set_code": 506,
     "type": 8,
     "job_branch": 3,
     "level": 160,
@@ -893,9 +966,10 @@
     "patk": 5,
     "upgrade_count": 7
   },
-  "1073034": {
+  {
     "name": "앱솔랩스 시프슈즈",
-    "set_item_id": 507,
+    "item_code": 1073034,
+    "set_code": 507,
     "type": 8,
     "job_branch": 4,
     "level": 160,
@@ -904,9 +978,10 @@
     "patk": 5,
     "upgrade_count": 7
   },
-  "1073035": {
+  {
     "name": "앱솔랩스 파이렛슈즈",
-    "set_item_id": 508,
+    "item_code": 1073035,
+    "set_code": 508,
     "type": 8,
     "job_branch": 5,
     "level": 160,
@@ -915,9 +990,10 @@
     "patk": 5,
     "upgrade_count": 7
   },
-  "1073158": {
+  {
     "name": "아케인셰이드 나이트슈즈",
-    "set_item_id": 617,
+    "item_code": 1073158,
+    "set_code": 617,
     "type": 8,
     "job_branch": 1,
     "level": 200,
@@ -926,9 +1002,10 @@
     "patk": 9,
     "upgrade_count": 7
   },
-  "1073159": {
+  {
     "name": "아케인셰이드 메이지슈즈",
-    "set_item_id": 618,
+    "item_code": 1073159,
+    "set_code": 618,
     "type": 8,
     "job_branch": 2,
     "level": 200,
@@ -937,9 +1014,10 @@
     "matk": 9,
     "upgrade_count": 7
   },
-  "1073160": {
+  {
     "name": "아케인셰이드 아처슈즈",
-    "set_item_id": 619,
+    "item_code": 1073160,
+    "set_code": 619,
     "type": 8,
     "job_branch": 3,
     "level": 200,
@@ -948,9 +1026,10 @@
     "patk": 9,
     "upgrade_count": 7
   },
-  "1073161": {
+  {
     "name": "아케인셰이드 시프슈즈",
-    "set_item_id": 620,
+    "item_code": 1073161,
+    "set_code": 620,
     "type": 8,
     "job_branch": 4,
     "level": 200,
@@ -959,9 +1038,10 @@
     "patk": 9,
     "upgrade_count": 7
   },
-  "1073162": {
+  {
     "name": "아케인셰이드 파이렛슈즈",
-    "set_item_id": 621,
+    "item_code": 1073162,
+    "set_code": 621,
     "type": 8,
     "job_branch": 5,
     "level": 200,
@@ -970,9 +1050,10 @@
     "patk": 9,
     "upgrade_count": 7
   },
-  "1082636": {
+  {
     "name": "앱솔랩스 나이트글러브",
-    "set_item_id": 504,
+    "item_code": 1082636,
+    "set_code": 504,
     "type": 9,
     "job_branch": 1,
     "level": 160,
@@ -981,9 +1062,10 @@
     "patk": 5,
     "upgrade_count": 7
   },
-  "1082637": {
+  {
     "name": "앱솔랩스 메이지글러브",
-    "set_item_id": 505,
+    "item_code": 1082637,
+    "set_code": 505,
     "type": 9,
     "job_branch": 2,
     "level": 160,
@@ -992,9 +1074,10 @@
     "matk": 5,
     "upgrade_count": 7
   },
-  "1082638": {
+  {
     "name": "앱솔랩스 아처글러브",
-    "set_item_id": 506,
+    "item_code": 1082638,
+    "set_code": 506,
     "type": 9,
     "job_branch": 3,
     "level": 160,
@@ -1003,9 +1086,10 @@
     "patk": 5,
     "upgrade_count": 7
   },
-  "1082639": {
+  {
     "name": "앱솔랩스 시프글러브",
-    "set_item_id": 507,
+    "item_code": 1082639,
+    "set_code": 507,
     "type": 9,
     "job_branch": 4,
     "level": 160,
@@ -1014,9 +1098,10 @@
     "patk": 5,
     "upgrade_count": 7
   },
-  "1082640": {
+  {
     "name": "앱솔랩스 파이렛글러브",
-    "set_item_id": 508,
+    "item_code": 1082640,
+    "set_code": 508,
     "type": 9,
     "job_branch": 5,
     "level": 160,
@@ -1025,9 +1110,10 @@
     "patk": 5,
     "upgrade_count": 7
   },
-  "1082695": {
+  {
     "name": "아케인셰이드 나이트글러브",
-    "set_item_id": 617,
+    "item_code": 1082695,
+    "set_code": 617,
     "type": 9,
     "job_branch": 1,
     "level": 200,
@@ -1036,9 +1122,10 @@
     "patk": 9,
     "upgrade_count": 7
   },
-  "1082696": {
+  {
     "name": "아케인셰이드 메이지글러브",
-    "set_item_id": 618,
+    "item_code": 1082696,
+    "set_code": 618,
     "type": 9,
     "job_branch": 2,
     "level": 200,
@@ -1047,9 +1134,10 @@
     "matk": 9,
     "upgrade_count": 7
   },
-  "1082697": {
+  {
     "name": "아케인셰이드 아처글러브",
-    "set_item_id": 619,
+    "item_code": 1082697,
+    "set_code": 619,
     "type": 9,
     "job_branch": 3,
     "level": 200,
@@ -1058,9 +1146,10 @@
     "patk": 9,
     "upgrade_count": 7
   },
-  "1082698": {
+  {
     "name": "아케인셰이드 시프글러브",
-    "set_item_id": 620,
+    "item_code": 1082698,
+    "set_code": 620,
     "type": 9,
     "job_branch": 4,
     "level": 200,
@@ -1069,9 +1158,10 @@
     "patk": 9,
     "upgrade_count": 7
   },
-  "1082699": {
+  {
     "name": "아케인셰이드 파이렛글러브",
-    "set_item_id": 621,
+    "item_code": 1082699,
+    "set_code": 621,
     "type": 9,
     "job_branch": 5,
     "level": 200,
@@ -1080,24 +1170,27 @@
     "patk": 9,
     "upgrade_count": 7
   },
-  "1092088": {
+  {
     "name": "데이모스 다크니스 실드",
+    "item_code": 1092088,
     "type": 22,
     "job": [ 11 ],
     "level": 130,
     "luk": 10,
     "upgrade_count": 7
   },
-  "1092089": {
+  {
     "name": "데이모스 세이지 실드",
+    "item_code": 1092089,
     "type": 22,
     "job": [ 4, 5, 6, 18, 23, 31 ],
     "level": 130,
     "int": 10,
     "upgrade_count": 7
   },
-  "1092092": {
+  {
     "name": "피어리스 프렐류드",
+    "item_code": 1092092,
     "type": 22,
     "job": [ 4, 5, 6, 18, 23, 31 ],
     "level": 125,
@@ -1105,8 +1198,9 @@
     "luk": 5,
     "upgrade_count": 8
   },
-  "1092094": {
+  {
     "name": "피어리스 리스트",
+    "item_code": 1092094,
     "type": 22,
     "job": [ 11 ],
     "level": 125,
@@ -1114,8 +1208,9 @@
     "luk": 10,
     "upgrade_count": 8
   },
-  "1098003": {
+  {
     "name": "정의의 소울실드",
+    "item_code": 1098003,
     "type": 22,
     "job": [ 17 ],
     "level": 100,
@@ -1124,8 +1219,9 @@
     "max_hp": 600,
     "max_mp": 110
   },
-  "1098009": {
+  {
     "name": "이볼빙 정의의 소울실드",
+    "item_code": 1098009,
     "type": 22,
     "job": [ 17 ],
     "level": 100,
@@ -1135,8 +1231,9 @@
     "max_mp": 110,
     "patk": 2
   },
-  "1099004": {
+  {
     "name": "극한의 포스실드",
+    "item_code": 1099004,
     "type": 22,
     "job_class": 4,
     "level": 100,
@@ -1145,16 +1242,18 @@
     "max_hp": 600,
     "max_df": 110
   },
-  "1099009": {
+  {
     "name": "극한의 포스실드",
+    "item_code": 1099009,
     "type": 22,
     "job_class": 4,
     "level": 100,
     "str": 12,
     "max_hp": 700
   },
-  "1099015": {
+  {
     "name": "루인 포스실드",
+    "item_code": 1099015,
     "type": 22,
     "job_class": 4,
     "level": 100,
@@ -1164,8 +1263,9 @@
     "max_df": 100,
     "final_damage": 10
   },
-  "1099016": {
+  {
     "name": "이볼빙 극한의 포스실드",
+    "item_code": 1099016,
     "type": 22,
     "job_class": 4,
     "level": 100,
@@ -1175,8 +1275,9 @@
     "max_df": 110,
     "patk": 2
   },
-  "1099017": {
+  {
     "name": "이볼빙 극한의 포스실드",
+    "item_code": 1099017,
     "type": 22,
     "job_class": 4,
     "level": 100,
@@ -1184,9 +1285,10 @@
     "max_hp": 700,
     "patk": 2
   },
-  "1102775": {
+  {
     "name": "앱솔랩스 나이트케이프",
-    "set_item_id": 504,
+    "item_code": 1102775,
+    "set_code": 504,
     "type": 10,
     "job_branch": 1,
     "level": 160,
@@ -1198,9 +1300,10 @@
     "matk": 2,
     "upgrade_count": 7
   },
-  "1102794": {
+  {
     "name": "앱솔랩스 메이지케이프",
-    "set_item_id": 505,
+    "item_code": 1102794,
+    "set_code": 505,
     "type": 10,
     "job_branch": 2,
     "level": 160,
@@ -1212,9 +1315,10 @@
     "matk": 2,
     "upgrade_count": 7
   },
-  "1102795": {
+  {
     "name": "앱솔랩스 아처케이프",
-    "set_item_id": 506,
+    "item_code": 1102795,
+    "set_code": 506,
     "type": 10,
     "job_branch": 3,
     "level": 160,
@@ -1226,9 +1330,10 @@
     "matk": 2,
     "upgrade_count": 7
   },
-  "1102796": {
+  {
     "name": "앱솔랩스 시프케이프",
-    "set_item_id": 507,
+    "item_code": 1102796,
+    "set_code": 507,
     "type": 10,
     "job_branch": 4,
     "level": 160,
@@ -1240,9 +1345,10 @@
     "matk": 2,
     "upgrade_count": 7
   },
-  "1102797": {
+  {
     "name": "앱솔랩스 파이렛케이프",
-    "set_item_id": 508,
+    "item_code": 1102797,
+    "set_code": 508,
     "type": 10,
     "job_branch": 5,
     "level": 160,
@@ -1254,9 +1360,10 @@
     "matk": 2,
     "upgrade_count": 7
   },
-  "1102940": {
+  {
     "name": "아케인셰이드 나이트케이프",
-    "set_item_id": 617,
+    "item_code": 1102940,
+    "set_code": 617,
     "type": 10,
     "job_branch": 1,
     "level": 200,
@@ -1268,9 +1375,10 @@
     "matk": 6,
     "upgrade_count": 7
   },
-  "1102941": {
+  {
     "name": "아케인셰이드 메이지케이프",
-    "set_item_id": 618,
+    "item_code": 1102941,
+    "set_code": 618,
     "type": 10,
     "job_branch": 2,
     "level": 200,
@@ -1282,9 +1390,10 @@
     "matk": 6,
     "upgrade_count": 7
   },
-  "1102942": {
+  {
     "name": "아케인셰이드 아처케이프",
-    "set_item_id": 619,
+    "item_code": 1102942,
+    "set_code": 619,
     "type": 10,
     "job_branch": 3,
     "level": 200,
@@ -1296,9 +1405,10 @@
     "matk": 6,
     "upgrade_count": 7
   },
-  "1102943": {
+  {
     "name": "아케인셰이드 시프케이프",
-    "set_item_id": 620,
+    "item_code": 1102943,
+    "set_code": 620,
     "type": 10,
     "job_branch": 4,
     "level": 200,
@@ -1310,9 +1420,10 @@
     "matk": 6,
     "upgrade_count": 7
   },
-  "1102944": {
+  {
     "name": "아케인셰이드 파이렛케이프",
-    "set_item_id": 621,
+    "item_code": 1102944,
+    "set_code": 621,
     "type": 10,
     "job_branch": 5,
     "level": 200,
@@ -1324,9 +1435,10 @@
     "matk": 6,
     "upgrade_count": 7
   },
-  "1113055": {
+  {
     "name": "마이스터링",
-    "set_item_id": 287,
+    "item_code": 1113055,
+    "set_code": 287,
     "type": 11,
     "level": 140,
     "str": 5,
@@ -1339,9 +1451,10 @@
     "matk": 1,
     "upgrade_count": 1
   },
-  "1113070": {
+  {
     "name": "스칼렛 링",
-    "joker": 1,
+    "item_code": 1113070,
+    "joker": true,
     "type": 11,
     "level": 135,
     "str": 4,
@@ -1354,9 +1467,10 @@
     "matk": 1,
     "upgrade_count": 1
   },
-  "1113063": {
+  {
     "name": "가디언의 마이스터 임모탈 링",
-    "set_item_id": 305,
+    "item_code": 1113063,
+    "set_code": 305,
     "type": 11,
     "level": 90,
     "str": 10,
@@ -1365,9 +1479,10 @@
     "luk": 10,
     "upgrade_count": 1
   },
-  "1113064": {
+  {
     "name": "버서커의 마이스터 임모탈 링",
-    "set_item_id": 305,
+    "item_code": 1113064,
+    "set_code": 305,
     "type": 11,
     "level": 90,
     "str": 5,
@@ -1377,9 +1492,10 @@
     "patk": 3,
     "upgrade_count": 1
   },
-  "1113065": {
+  {
     "name": "아크로드의 마이스터 이터널 링",
-    "set_item_id": 306,
+    "item_code": 1113065,
+    "set_code": 306,
     "type": 11,
     "level": 90,
     "str": 5,
@@ -1389,9 +1505,10 @@
     "matk": 3,
     "upgrade_count": 1
   },
-  "1113066": {
+  {
     "name": "오라클의 마이스터 이터널 링",
-    "set_item_id": 306,
+    "item_code": 1113066,
+    "set_code": 306,
     "type": 11,
     "level": 90,
     "str": 10,
@@ -1400,8 +1517,9 @@
     "luk": 10,
     "upgrade_count": 1
   },
-  "1113085": {
+  {
     "name": "무르무르의 로드 링",
+    "item_code": 1113085,
     "type": 11,
     "level": 100,
     "str": 7,
@@ -1412,8 +1530,9 @@
     "patk": 2,
     "upgrade_count": 1
   },
-  "1113086": {
+  {
     "name": "무르무르의 메이지 링",
+    "item_code": 1113086,
     "type": 11,
     "level": 100,
     "str": 7,
@@ -1424,8 +1543,9 @@
     "matk": 2,
     "upgrade_count": 1
   },
-  "1113087": {
+  {
     "name": "구미호의 혼령 반지",
+    "item_code": 1113087,
     "type": 11,
     "level": 100,
     "str": 7,
@@ -1436,8 +1556,9 @@
     "patk": 2,
     "upgrade_count": 1
   },
-  "1113088": {
+  {
     "name": "구미호의 주술 반지",
+    "item_code": 1113088,
     "type": 11,
     "level": 100,
     "str": 7,
@@ -1449,9 +1570,10 @@
     "upgrade_count": 1
   },
 
-  "1113149": {
+  {
     "name": "실버블라썸 링",
-    "set_item_id": 462,
+    "item_code": 1113149,
+    "set_code": 462,
     "type": 11,
     "level": 110,
     "str": 5,
@@ -1462,8 +1584,9 @@
     "matk": 2,
     "upgrade_count": 2
   },
-  "1113231": {
+  {
     "name": "SS급 마스터 쥬얼링",
+    "item_code": 1113231,
     "type": 11,
     "level": 120,
     "str": 30,
@@ -1474,11 +1597,12 @@
     "max_mp": 3000,
     "patk": 20,
     "matk": 20,
-    "block_star": 1
+    "block_star": true
   },
-  "1113282": {
+  {
     "name": "고귀한 이피아의 반지",
-    "set_item_id": 462,
+    "item_code": 1113282,
+    "set_code": 462,
     "type": 11,
     "level": 120,
     "str": 5,
@@ -1491,9 +1615,10 @@
     "matk": 2,
     "upgrade_count": 2
   },
-  "1113306": {
+  {
     "name": "거대한 공포",
-    "set_item_id": 677,
+    "item_code": 1113306,
+    "set_code": 677,
     "type": 11,
     "level": 200,
     "str": 5,
@@ -1506,9 +1631,10 @@
     "matk": 4,
     "upgrade_count": 2
   },
-  "1113313": {
+  {
     "name": "가디언 엔젤 링",
-    "set_item_id": 462,
+    "item_code": 1113313,
+    "set_code": 462,
     "type": 11,
     "level": 160,
     "str": 5,
@@ -1521,9 +1647,10 @@
     "matk": 2,
     "upgrade_count": 2
   },
-  "1113316": {
+  {
     "name": "여명의 가디언 엔젤 링",
-    "set_item_id": 869,
+    "item_code": 1113316,
+    "set_code": 869,
     "type": 11,
     "level": 160,
     "str": 5,
@@ -1536,8 +1663,9 @@
     "matk": 2,
     "upgrade_count": 2
   },
-  "1114305": {
+  {
     "name": "카오스 링",
+    "item_code": 1114305,
     "type": 11,
     "level": 120,
     "str": 30,
@@ -1548,10 +1676,11 @@
     "max_mp": 3000,
     "patk": 20,
     "matk": 20,
-    "block_star": 1
+    "block_star": true
   },
-  "1114307": {
+  {
     "name": "테네브리스 원정대 반지",
+    "item_code": 1114307,
     "type": 11,
     "level": 120,
     "str": 40,
@@ -1562,10 +1691,11 @@
     "max_mp": 4000,
     "patk": 25,
     "matk": 25,
-    "block_star": 1
+    "block_star": true
   },
-  "1114312": {
+  {
     "name": "어드벤처 딥다크 크리티컬링",
+    "item_code": 1114312,
     "type": 11,
     "level": 130,
     "str": 20,
@@ -1578,10 +1708,11 @@
     "matk": 20,
     "crit_rate": 15,
     "crit_damage": 5,
-    "block_star": 1
+    "block_star": true
   },
-  "1114316": {
+  {
     "name": "글로리온 링 : 슈프림",
+    "item_code": 1114316,
     "type": 11,
     "level": 120,
     "str": 40,
@@ -1592,10 +1723,11 @@
     "max_mp": 4000,
     "patk": 25,
     "matk": 25,
-    "block_star": 1
+    "block_star": true
   },
-  "1114318": {
+  {
     "name": "어웨이크 링",
+    "item_code": 1114318,
     "type": 11,
     "level": 120,
     "str": 40,
@@ -1606,10 +1738,11 @@
     "max_mp": 4000,
     "patk": 25,
     "matk": 25,
-    "block_star": 1
+    "block_star": true
   },
-  "1114324": {
+  {
     "name": "이터널 플레임 링",
+    "item_code": 1114324,
     "type": 11,
     "level": 120,
     "str": 40,
@@ -1620,11 +1753,12 @@
     "max_mp": 4000,
     "patk": 25,
     "matk": 25,
-    "block_star": 1
+    "block_star": true
   },
-  "1122000": {
+  {
     "name": "혼테일의 목걸이",
-    "set_item_id": 462,
+    "item_code": 1122000,
+    "set_code": 462,
     "type": 13,
     "level": 120,
     "str": 7,
@@ -1632,11 +1766,12 @@
     "int": 7,
     "luk": 7,
     "upgrade_count": 3,
-    "block_hammer": 1
+    "block_hammer": true
   },
-  "1122076": {
+  {
     "name": "카오스 혼테일의 목걸이",
-    "set_item_id": 462,
+    "item_code": 1122076,
+    "set_code": 462,
     "type": 13,
     "level": 120,
     "str": 10,
@@ -1648,10 +1783,11 @@
     "patk": 2,
     "matk": 2,
     "upgrade_count": 3,
-    "block_hammer": 1
+    "block_hammer": true
   },
-  "1122091": {
+  {
     "name": "베어스 퍼플 펜던트",
+    "item_code": 1122091,
     "type": 13,
     "level": 130,
     "str": 16,
@@ -1659,8 +1795,9 @@
     "max_mp": 180,
     "upgrade_count": 3
   },
-  "1122095": {
+  {
     "name": "아울스 퍼플 펜던트",
+    "item_code": 1122095,
     "type": 13,
     "level": 130,
     "int": 16,
@@ -1668,8 +1805,9 @@
     "max_mp": 180,
     "upgrade_count": 3
   },
-  "1122099": {
+  {
     "name": "울프스 퍼플 펜던트",
+    "item_code": 1122099,
     "type": 13,
     "level": 130,
     "dex": 16,
@@ -1677,8 +1815,9 @@
     "max_mp": 180,
     "upgrade_count": 3
   },
-  "1122103": {
+  {
     "name": "피콕스 퍼플 펜던트",
+    "item_code": 1122103,
     "type": 13,
     "level": 130,
     "luk": 16,
@@ -1686,8 +1825,9 @@
     "max_mp": 180,
     "upgrade_count": 3
   },
-  "1122104": {
+  {
     "name": "라이징 썬 펜던트",
+    "item_code": 1122104,
     "type": 13,
     "level": 130,
     "str": 16,
@@ -1700,9 +1840,10 @@
     "matk": 2,
     "upgrade_count": 4
   },
-  "1122150": {
+  {
     "name": "도미네이터 펜던트",
-    "set_item_id": 462,
+    "item_code": 1122150,
+    "set_code": 462,
     "type": 13,
     "level": 140,
     "str": 20,
@@ -1715,9 +1856,10 @@
     "matk": 3,
     "upgrade_count": 5
   },
-  "1122254": {
+  {
     "name": "매커네이터 펜던트",
-    "set_item_id": 462,
+    "item_code": 1122254,
+    "set_code": 462,
     "type": 13,
     "level": 120,
     "str": 10,
@@ -1730,9 +1872,10 @@
     "matk": 1,
     "upgrade_count": 2
   },
-  "1122430": {
+  {
     "name": "고통의 근원",
-    "set_item_id": 677,
+    "item_code": 1122430,
+    "set_code": 677,
     "type": 13,
     "level": 160,
     "str": 10,
@@ -1744,9 +1887,10 @@
     "matk": 3,
     "upgrade_count": 5
   },
-  "1122443": {
+  {
     "name": "데이브레이크 펜던트",
-    "set_item_id": 869,
+    "item_code": 1122443,
+    "set_code": 869,
     "type": 13,
     "level": 140,
     "str": 8,
@@ -1758,8 +1902,9 @@
     "matk": 2,
     "upgrade_count": 5
   },
-  "1132174": {
+  {
     "name": "타일런트 히아데스 벨트",
+    "item_code": 1132174,
     "type": 14,
     "job_branch": 1,
     "level": 150,
@@ -1772,8 +1917,9 @@
     "upgrade_count": 1,
     "superior": 1
   },
-  "1132175": {
+  {
     "name": "타일런트 헤르메스 벨트",
+    "item_code": 1132175,
     "type": 14,
     "job_branch": 2,
     "level": 150,
@@ -1786,8 +1932,9 @@
     "upgrade_count": 1,
     "superior": 1
   },
-  "1132176": {
+  {
     "name": "타일런트 케이론 벨트",
+    "item_code": 1132176,
     "type": 14,
     "job_branch": 3,
     "level": 150,
@@ -1800,8 +1947,9 @@
     "upgrade_count": 1,
     "superior": 1
   },
-  "1132177": {
+  {
     "name": "타일런트 리카온 벨트",
+    "item_code": 1132177,
     "type": 14,
     "job_branch": 4,
     "level": 150,
@@ -1814,8 +1962,9 @@
     "upgrade_count": 1,
     "superior": 1
   },
-  "1132178": {
+  {
     "name": "타일런트 알테어 벨트",
+    "item_code": 1132178,
     "type": 14,
     "job_branch": 5,
     "level": 150,
@@ -1828,9 +1977,10 @@
     "upgrade_count": 1,
     "superior": 1
   },
-  "1132272": {
+  {
     "name": "골든 클로버 벨트",
-    "set_item_id": 462,
+    "item_code": 1132272,
+    "set_code": 462,
     "type": 14,
     "level": 140,
     "str": 15,
@@ -1843,9 +1993,10 @@
     "matk": 1,
     "upgrade_count": 3
   },
-  "1132296": {
+  {
     "name": "분노한 자쿰의 벨트",
-    "set_item_id": 462,
+    "item_code": 1132296,
+    "set_code": 462,
     "type": 14,
     "level": 150,
     "str": 18,
@@ -1858,9 +2009,10 @@
     "matk": 1,
     "upgrade_count": 3
   },
-  "1132308": {
+  {
     "name": "몽환의 벨트",
-    "set_item_id": 677,
+    "item_code": 1132308,
+    "set_code": 677,
     "type": 14,
     "level": 200,
     "str": 50,
@@ -1873,8 +2025,9 @@
     "matk": 6,
     "upgrade_count": 3
   },
-  "1142145": {
+  {
     "name": "프리미엄 PC방",
+    "item_code": 1142145,
     "type": 15,
     "str": 8,
     "dex": 8,
@@ -1885,8 +2038,9 @@
     "patk": 10,
     "matk": 10
   },
-  "1142877": {
+  {
     "name": "닐리리야 니나노",
+    "item_code": 1142877,
     "type": 15,
     "level": 130,
     "str": 9,
@@ -1896,8 +2050,9 @@
     "patk": 6,
     "matk": 6
   },
-  "1142879": {
+  {
     "name": "우르스 격파왕",
+    "item_code": 1142879,
     "type": 15,
     "str": 7,
     "dex": 7,
@@ -1906,8 +2061,9 @@
     "patk": 7,
     "matk": 7
   },
-  "1142880": {
+  {
     "name": "신의 컨트롤 보유자",
+    "item_code": 1142880,
     "type": 15,
     "level": 100,
     "str": 8,
@@ -1917,8 +2073,9 @@
     "patk": 8,
     "matk": 8
   },
-  "1142913": {
+  {
     "name": "본 투 비 골드",
+    "item_code": 1142913,
     "type": 15,
     "str": 3,
     "dex": 3,
@@ -1927,8 +2084,9 @@
     "patk": 3,
     "matk": 3
   },
-  "1142909": {
+  {
     "name": "프리토의 친구",
+    "item_code": 1142909,
     "type": 15,
     "str": 10,
     "dex": 10,
@@ -1939,8 +2097,9 @@
     "patk": 3,
     "matk": 3
   },
-  "1142910": {
+  {
     "name": "폴로의 친구",
+    "item_code": 1142910,
     "type": 15,
     "str": 15,
     "dex": 15,
@@ -1951,8 +2110,9 @@
     "patk": 5,
     "matk": 5
   },
-  "1142914": {
+  {
     "name": "본 투 비 다이아",
+    "item_code": 1142914,
     "type": 15,
     "str": 5,
     "dex": 5,
@@ -1963,8 +2123,9 @@
     "patk": 5,
     "matk": 5
   },
-  "1143203": {
+  {
     "name": "본 투 비 레드",
+    "item_code": 1143203,
     "type": 15,
     "str": 7,
     "dex": 7,
@@ -1976,9 +2137,10 @@
     "matk": 7,
     "boss_damage": 5
   },
-  "1142922": {
+  {
     "name": "칠요의 몬스터파커",
-    "set_item_id": 584,
+    "item_code": 1142922,
+    "set_code": 584,
     "type": 15,
     "level": 100,
     "str": 7,
@@ -1989,8 +2151,9 @@
     "matk": 7,
     "armor_ignore": 10
   },
-  "1143136": {
+  {
     "name": "미궁의 깊이를 아는 자",
+    "item_code": 1143136,
     "type": 15,
     "level": 200,
     "str": 15,
@@ -2002,9 +2165,10 @@
     "patk": 5,
     "matk": 5
   },
-  "1152154": {
+  {
     "name": "마이스터 숄더",
-    "set_item_id": 287,
+    "item_code": 1152154,
+    "set_code": 287,
     "type": 16,
     "level": 140,
     "str": 13,
@@ -2015,9 +2179,10 @@
     "matk": 9,
     "upgrade_count": 1
   },
-  "1152155": {
+  {
     "name": "스칼렛 숄더",
-    "joker": 1,
+    "item_code": 1152155,
+    "joker": true,
     "type": 16,
     "level": 135,
     "str": 12,
@@ -2029,9 +2194,10 @@
     "matk": 7,
     "upgrade_count": 1
   },
-  "1152170": {
+  {
     "name": "로얄 블랙메탈 숄더",
-    "set_item_id": 462,
+    "item_code": 1152170,
+    "set_code": 462,
     "type": 16,
     "level": 120,
     "str": 10,
@@ -2042,9 +2208,10 @@
     "matk": 6,
     "upgrade_count": 1
   },
-  "1152174": {
+  {
     "name": "앱솔랩스 나이트숄더",
-    "set_item_id": 504,
+    "item_code": 1152174,
+    "set_code": 504,
     "type": 16,
     "job_branch": 1,
     "level": 160,
@@ -2056,9 +2223,10 @@
     "matk": 10,
     "upgrade_count": 1
   },
-  "1152176": {
+  {
     "name": "앱솔랩스 메이지숄더",
-    "set_item_id": 505,
+    "item_code": 1152176,
+    "set_code": 505,
     "type": 16,
     "job_branch": 2,
     "level": 160,
@@ -2070,9 +2238,10 @@
     "matk": 10,
     "upgrade_count": 1
   },
-  "1152177": {
+  {
     "name": "앱솔랩스 아처숄더",
-    "set_item_id": 506,
+    "item_code": 1152177,
+    "set_code": 506,
     "type": 16,
     "job_branch": 3,
     "level": 160,
@@ -2084,9 +2253,10 @@
     "matk": 10,
     "upgrade_count": 1
   },
-  "1152178": {
+  {
     "name": "앱솔랩스 시프숄더",
-    "set_item_id": 507,
+    "item_code": 1152178,
+    "set_code": 507,
     "type": 16,
     "job_branch": 4,
     "level": 160,
@@ -2098,9 +2268,10 @@
     "matk": 10,
     "upgrade_count": 1
   },
-  "1152179": {
+  {
     "name": "앱솔랩스 파이렛숄더",
-    "set_item_id": 508,
+    "item_code": 1152179,
+    "set_code": 508,
     "type": 16,
     "job_branch": 5,
     "level": 160,
@@ -2112,9 +2283,10 @@
     "matk": 10,
     "upgrade_count": 1
   },
-  "1152196": {
+  {
     "name": "아케인셰이드 나이트숄더",
-    "set_item_id": 617,
+    "item_code": 1152196,
+    "set_code": 617,
     "type": 16,
     "job_branch": 1,
     "level": 200,
@@ -2126,9 +2298,10 @@
     "matk": 20,
     "upgrade_count": 1
   },
-  "1152197": {
+  {
     "name": "아케인셰이드 메이지숄더",
-    "set_item_id": 618,
+    "item_code": 1152197,
+    "set_code": 618,
     "type": 16,
     "job_branch": 2,
     "level": 200,
@@ -2140,9 +2313,10 @@
     "matk": 20,
     "upgrade_count": 1
   },
-  "1152198": {
+  {
     "name": "아케인셰이드 아처숄더",
-    "set_item_id": 619,
+    "item_code": 1152198,
+    "set_code": 619,
     "type": 16,
     "job_branch": 3,
     "level": 200,
@@ -2154,9 +2328,10 @@
     "matk": 20,
     "upgrade_count": 1
   },
-  "1152199": {
+  {
     "name": "아케인셰이드 시프숄더",
-    "set_item_id": 620,
+    "item_code": 1152199,
+    "set_code": 620,
     "type": 16,
     "job_branch": 4,
     "level": 200,
@@ -2168,9 +2343,10 @@
     "matk": 20,
     "upgrade_count": 1
   },
-  "1152200": {
+  {
     "name": "아케인셰이드 파이렛숄더",
-    "set_item_id": 621,
+    "item_code": 1152200,
+    "set_code": 621,
     "type": 16,
     "job_branch": 5,
     "level": 200,
@@ -2182,9 +2358,10 @@
     "matk": 20,
     "upgrade_count": 1
   },
-  "1162009": {
+  {
     "name": "영생의 돌",
-    "set_item_id": 462,
+    "item_code": 1162009,
+    "set_code": 462,
     "type": 17,
     "str": 3,
     "dex": 3,
@@ -2193,9 +2370,10 @@
     "patk": 3,
     "matk": 3
   },
-  "1162025": {
+  {
     "name": "핑크빛 성배",
-    "set_item_id": 462,
+    "item_code": 1162025,
+    "set_code": 462,
     "type": 17,
     "level": 140,
     "str": 5,
@@ -2207,9 +2385,10 @@
     "patk": 5,
     "matk": 5
   },
-  "1162080": {
+  {
     "name": "저주받은 적의 마도서",
-    "set_item_id": 677,
+    "item_code": 1162080,
+    "set_code": 677,
     "type": 17,
     "level": 160,
     "str": 20,
@@ -2221,9 +2400,10 @@
     "patk": 10,
     "matk": 10
   },
-  "1162081": {
+  {
     "name": "저주받은 청의 마도서",
-    "set_item_id": 677,
+    "item_code": 1162081,
+    "set_code": 677,
     "type": 17,
     "level": 160,
     "str": 10,
@@ -2235,9 +2415,10 @@
     "patk": 10,
     "matk": 10
   },
-  "1162082": {
+  {
     "name": "저주받은 녹의 마도서",
-    "set_item_id": 677,
+    "item_code": 1162082,
+    "set_code": 677,
     "type": 17,
     "level": 160,
     "str": 10,
@@ -2249,9 +2430,10 @@
     "patk": 10,
     "matk": 10
   },
-  "1162083": {
+  {
     "name": "저주받은 황의 마도서",
-    "set_item_id": 677,
+    "item_code": 1162083,
+    "set_code": 677,
     "type": 17,
     "level": 160,
     "str": 10,
@@ -2263,9 +2445,10 @@
     "patk": 10,
     "matk": 10
   },
-  "1182087": {
+  {
     "name": "크리스탈 웬투스 뱃지",
-    "set_item_id": 462,
+    "item_code": 1182087,
+    "set_code": 462,
     "type": 18,
     "level": 130,
     "str": 10,
@@ -2275,9 +2458,10 @@
     "patk": 5,
     "matk": 5
   },
-  "1182200": {
+  {
     "name": "칠요의 뱃지",
-    "set_item_id": 584,
+    "item_code": 1182200,
+    "set_code": 584,
     "type": 18,
     "level": 100,
     "str": 7,
@@ -2288,9 +2472,10 @@
     "matk": 7,
     "armor_ignore": 10
   },
-  "1182285": {
+  {
     "name": "창세의 뱃지",
-    "set_item_id": 677,
+    "item_code": 1182285,
+    "set_code": 677,
     "type": 18,
     "level": 200,
     "str": 15,
@@ -2300,8 +2485,9 @@
     "patk": 10,
     "matk": 10
   },
-  "1190001": {
+  {
     "name": "드래곤 엠블렘",
+    "item_code": 1190001,
     "type": 20,
     "job": [ 35 ],
     "level": 100,
@@ -2310,8 +2496,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1190101": {
+  {
     "name": "엔젤 엠블렘",
+    "item_code": 1190101,
     "type": 20,
     "job": [ 38 ],
     "level": 100,
@@ -2320,8 +2507,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1190201": {
+  {
     "name": "하이브리드 하트",
+    "item_code": 1190201,
     "type": 20,
     "job": [ 26 ],
     "level": 100,
@@ -2330,8 +2518,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1190301": {
+  {
     "name": "골드 메이플리프 엠블렘",
+    "item_code": 1190301,
     "type": 20,
     "job_class": 1,
     "level": 100,
@@ -2342,8 +2531,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1190511": {
+  {
     "name": "골드 히어로즈 엠블렘",
+    "item_code": 1190511,
     "type": 20,
     "job_class": 5,
     "level": 100,
@@ -2354,8 +2544,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1190530": {
+  {
     "name": "골드 에이전트 엠블렘",
+    "item_code": 1190530,
     "type": 20,
     "job": [ 37 ],
     "level": 100,
@@ -2366,8 +2557,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1190532": {
+  {
     "name": "골드 크리스탈 엠블렘",
+    "item_code": 1190532,
     "type": 20,
     "job": [ 40 ],
     "level": 100,
@@ -2378,8 +2570,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1190540": {
+  {
     "name": "골드 어비스 엠블렘",
+    "item_code": 1190540,
     "type": 20,
     "job": [ 41 ],
     "level": 100,
@@ -2390,8 +2583,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1190550": {
+  {
     "name": "금빛 천지인 엠블렘",
+    "item_code": 1190550,
     "type": 20,
     "job": [ 43 ],
     "level": 100,
@@ -2402,8 +2596,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1190552": {
+  {
     "name": "골드 나이트 엠블렘",
+    "item_code": 1190552,
     "type": 20,
     "job": [ 39 ],
     "level": 100,
@@ -2414,8 +2609,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1190554": {
+  {
     "name": "골드 히트맨 엠블렘",
+    "item_code": 1190554,
     "type": 20,
     "job": [ 36 ],
     "level": 100,
@@ -2426,9 +2622,10 @@
     "patk": 2,
     "matk": 2
   },
-  "1190555": {
+  {
     "name": "미트라의 분노 : 전사",
-    "set_item_id": 677,
+    "item_code": 1190555,
+    "set_code": 677,
     "type": 20,
     "job_branch": 1,
     "level": 200,
@@ -2438,9 +2635,10 @@
     "patk": 5,
     "matk": 5
   },
-  "1190556": {
+  {
     "name": "미트라의 분노 : 궁수",
-    "set_item_id": 677,
+    "item_code": 1190556,
+    "set_code": 677,
     "type": 20,
     "job_branch": 3,
     "level": 200,
@@ -2449,9 +2647,10 @@
     "patk": 5,
     "matk": 5
   },
-  "1190557": {
+  {
     "name": "미트라의 분노 : 마법사",
-    "set_item_id": 677,
+    "item_code": 1190557,
+    "set_code": 677,
     "type": 20,
     "job_branch": 2,
     "level": 200,
@@ -2460,9 +2659,10 @@
     "patk": 5,
     "matk": 5
   },
-  "1190558": {
+  {
     "name": "미트라의 분노 : 도적",
-    "set_item_id": 677,
+    "item_code": 1190558,
+    "set_code": 677,
     "type": 20,
     "job_branch": 4,
     "level": 200,
@@ -2471,9 +2671,10 @@
     "patk": 5,
     "matk": 5
   },
-  "1190559": {
+  {
     "name": "미트라의 분노 : 해적",
-    "set_item_id": 677,
+    "item_code": 1190559,
+    "set_code": 677,
     "type": 20,
     "job_branch": 5,
     "level": 200,
@@ -2483,8 +2684,9 @@
     "patk": 5,
     "matk": 5
   },
-  "1190561": {
+  {
     "name": "금빛 풍수사 엠블렘",
+    "item_code": 1190561,
     "type": 20,
     "job": [ 42 ],
     "level": 100,
@@ -2495,8 +2697,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1190601": {
+  {
     "name": "골드 레지스탕스 엠블렘",
+    "item_code": 1190601,
     "type": 20,
     "job_class": 3,
     "level": 100,
@@ -2507,8 +2710,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1190701": {
+  {
     "name": "골드 데몬 엠블렘",
+    "item_code": 1190701,
     "type": 20,
     "job_class": 4,
     "level": 100,
@@ -2520,8 +2724,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1190801": {
+  {
     "name": "골드 시그너스 엠블렘",
+    "item_code": 1190801,
     "type": 20,
     "job_class": 2,
     "level": 100,
@@ -2532,8 +2737,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1190900": {
+  {
     "name": "이터널 타임 엠블렘",
+    "item_code": 1190900,
     "type": 20,
     "job_class": 9,
     "level": 100,
@@ -2544,8 +2750,9 @@
     "patk": 2,
     "matk": 2
   },
-  "1191001": {
+  {
     "name": "골드 키네시스 엠블렘",
+    "item_code": 1191001,
     "type": 20,
     "job_class": 10,
     "level": 100,
@@ -2556,9 +2763,10 @@
     "patk": 2,
     "matk": 2
   },
-  "1212063": {
+  {
     "name": "파프니르 마나크래들",
-    "set_item_id": 248,
+    "item_code": 1212063,
+    "set_code": 248,
     "type": 21,
     "job": [ 30 ],
     "level": 150,
@@ -2570,9 +2778,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1212115": {
+  {
     "name": "앱솔랩스 샤이닝로드",
-    "set_item_id": 505,
+    "item_code": 1212115,
+    "set_code": 505,
     "type": 21,
     "job": [ 30 ],
     "level": 160,
@@ -2584,9 +2793,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1212120": {
+  {
     "name": "아케인셰이드 샤이닝로드",
-    "set_item_id": 618,
+    "item_code": 1212120,
+    "set_code": 618,
     "type": 21,
     "job": [ 30 ],
     "level": 200,
@@ -2598,10 +2808,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1212129": {
+  {
     "name": "제네시스 샤이닝로드",
-    "set_item_id": 887,
-    "joker": 1,
+    "item_code": 1212129,
+    "set_code": 887,
+    "joker": true,
     "type": 21,
     "job": [ 30 ],
     "level": 200,
@@ -2613,9 +2824,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1213016": {
+  {
     "name": "파프니르 포기브니스",
-    "set_item_id": 247,
+    "item_code": 1213016,
+    "set_code": 247,
     "type": 21,
     "job": [ 39 ],
     "level": 150,
@@ -2626,9 +2838,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1213017": {
+  {
     "name": "앱솔랩스 튜너",
-    "set_item_id": 504,
+    "item_code": 1213017,
+    "set_code": 504,
     "type": 21,
     "job": [ 39 ],
     "level": 160,
@@ -2639,9 +2852,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1213018": {
+  {
     "name": "아케인셰이드 튜너",
-    "set_item_id": 617,
+    "item_code": 1213018,
+    "set_code": 617,
     "type": 21,
     "job": [ 39 ],
     "level": 200,
@@ -2652,10 +2866,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1213022": {
+  {
     "name": "제네시스 튜너",
-    "set_item_id": 886,
-    "joker": 1,
+    "item_code": 1213022,
+    "set_code": 886,
+    "joker": true,
     "type": 21,
     "job": [ 39 ],
     "level": 200,
@@ -2666,9 +2881,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1214016": {
+  {
     "name": "파프니르 나이트체이서",
-    "set_item_id": 249,
+    "item_code": 1214016,
+    "set_code": 249,
     "type": 21,
     "job": [ 36 ],
     "level": 150,
@@ -2679,9 +2895,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1214017": {
+  {
     "name": "앱솔랩스 브레스 슈터",
-    "set_item_id": 506,
+    "item_code": 1214017,
+    "set_code": 506,
     "type": 21,
     "job": [ 36 ],
     "level": 160,
@@ -2692,9 +2909,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1214018": {
+  {
     "name": "아케인셰이드 브레스 슈터",
-    "set_item_id": 619,
+    "item_code": 1214018,
+    "set_code": 619,
     "type": 21,
     "job": [ 36 ],
     "level": 200,
@@ -2705,10 +2923,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1214022": {
+  {
     "name": "제네시스 브레스 슈터",
-    "set_item_id": 888,
-    "joker": 1,
+    "item_code": 1214022,
+    "set_code": 888,
+    "joker": true,
     "type": 21,
     "job": [ 36 ],
     "level": 200,
@@ -2719,9 +2938,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1222058": {
+  {
     "name": "파프니르 엔젤릭슈터",
-    "set_item_id": 251,
+    "item_code": 1222058,
+    "set_code": 251,
     "type": 21,
     "job": [ 38 ],
     "level": 150,
@@ -2732,9 +2952,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1222109": {
+  {
     "name": "앱솔랩스 소울슈터",
-    "set_item_id": 508,
+    "item_code": 1222109,
+    "set_code": 508,
     "type": 21,
     "job": [ 38 ],
     "level": 160,
@@ -2745,9 +2966,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1222113": {
+  {
     "name": "아케인셰이드 소울슈터",
-    "set_item_id": 621,
+    "item_code": 1222113,
+    "set_code": 621,
     "type": 21,
     "job": [ 38 ],
     "level": 200,
@@ -2758,10 +2980,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1222122": {
+  {
     "name": "제네시스 소울슈터",
-    "set_item_id": 890,
-    "joker": 1,
+    "item_code": 1222122,
+    "set_code": 890,
+    "joker": true,
     "type": 21,
     "job": [ 38 ],
     "level": 200,
@@ -2772,9 +2995,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1232057": {
+  {
     "name": "파프니르 데스브링어",
-    "set_item_id": 247,
+    "item_code": 1232057,
+    "set_code": 247,
     "type": 21,
     "job": [ 28 ],
     "level": 150,
@@ -2785,9 +3009,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1232109": {
+  {
     "name": "앱솔랩스 데스페라도",
-    "set_item_id": 504,
+    "item_code": 1232109,
+    "set_code": 504,
     "type": 21,
     "job": [ 28 ],
     "level": 160,
@@ -2798,9 +3023,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1232113": {
+  {
     "name": "아케인셰이드 데스페라도",
-    "set_item_id": 617,
+    "item_code": 1232113,
+    "set_code": 617,
     "type": 21,
     "job": [ 28 ],
     "level": 200,
@@ -2811,10 +3037,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1232122": {
+  {
     "name": "제네시스 데스페라도",
-    "set_item_id": 886,
-    "joker": 1,
+    "item_code": 1232122,
+    "set_code": 886,
+    "joker": true,
     "type": 21,
     "job": [ 28 ],
     "level": 200,
@@ -2825,9 +3052,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1242060": {
+  {
     "name": "파프니르 스플릿엣지(도적)",
-    "set_item_id": 250,
+    "item_code": 1242060,
+    "set_code": 250,
     "type": 21,
     "job": [ 26 ],
     "level": 150,
@@ -2838,9 +3066,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1242061": {
+  {
     "name": "파프니르 스플릿엣지(해적)",
-    "set_item_id": 251,
+    "item_code": 1242061,
+    "set_code": 251,
     "type": 21,
     "job": [ 26 ],
     "level": 150,
@@ -2851,9 +3080,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1242116": {
+  {
     "name": "앱솔랩스 에너지소드(해적)",
-    "set_item_id": 508,
+    "item_code": 1242116,
+    "set_code": 508,
     "type": 21,
     "job": [ 26 ],
     "level": 160,
@@ -2864,9 +3094,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1242120": {
+  {
     "name": "앱솔랩스 에너지소드(도적)",
-    "set_item_id": 507,
+    "item_code": 1242120,
+    "set_code": 507,
     "type": 21,
     "job": [ 26 ],
     "level": 160,
@@ -2877,9 +3108,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1242121": {
+  {
     "name": "아케인셰이드 에너지체인(해적)",
-    "set_item_id": 621,
+    "item_code": 1242121,
+    "set_code": 621,
     "type": 21,
     "job": [ 26 ],
     "level": 200,
@@ -2890,9 +3122,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1242122": {
+  {
     "name": "아케인셰이드 에너지체인(도적)",
-    "set_item_id": 620,
+    "item_code": 1242122,
+    "set_code": 620,
     "type": 21,
     "job": [ 26 ],
     "level": 200,
@@ -2903,10 +3136,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1242139": {
+  {
     "name": "제네시스 에너지체인(해적)",
-    "set_item_id": 890,
-    "joker": 1,
+    "item_code": 1242139,
+    "set_code": 890,
+    "joker": true,
     "type": 21,
     "job": [ 26 ],
     "level": 200,
@@ -2917,10 +3151,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1242141": {
+  {
     "name": "제네시스 에너지체인(도적)",
-    "set_item_id": 889,
-    "joker": 1,
+    "item_code": 1242141,
+    "set_code": 889,
+    "joker": true,
     "type": 21,
     "job": [ 26 ],
     "level": 200,
@@ -2931,9 +3166,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1262016": {
+  {
     "name": "파프니르 ESP리미터",
-    "set_item_id": 248,
+    "item_code": 1262016,
+    "set_code": 248,
     "type": 21,
     "job": [ 45 ],
     "level": 150,
@@ -2945,9 +3181,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1262017": {
+  {
     "name": "앱솔랩스 ESP리미터",
-    "set_item_id": 505,
+    "item_code": 1262017,
+    "set_code": 505,
     "type": 21,
     "job": [ 45 ],
     "level": 160,
@@ -2959,9 +3196,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1262039": {
+  {
     "name": "아케인셰이드 ESP리미터",
-    "set_item_id": 618,
+    "item_code": 1262039,
+    "set_code": 618,
     "type": 21,
     "job": [ 45 ],
     "level": 200,
@@ -2973,10 +3211,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1262051": {
+  {
     "name": "제네시스 ESP리미터",
-    "set_item_id": 887,
-    "joker": 1,
+    "item_code": 1262051,
+    "set_code": 887,
+    "joker": true,
     "type": 21,
     "job": [ 45 ],
     "level": 200,
@@ -2988,9 +3227,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1272015": {
+  {
     "name": "파프니르 체인",
-    "set_item_id": 250,
+    "item_code": 1272015,
+    "set_code": 250,
     "type": 21,
     "job": [ 37 ],
     "level": 150,
@@ -3001,9 +3241,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1272016": {
+  {
     "name": "앱솔랩스 체인",
-    "set_item_id": 507,
+    "item_code": 1272016,
+    "set_code": 507,
     "type": 21,
     "job": [ 37 ],
     "level": 160,
@@ -3014,9 +3255,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1272017": {
+  {
     "name": "아케인셰이드 체인",
-    "set_item_id": 620,
+    "item_code": 1272017,
+    "set_code": 620,
     "type": 21,
     "job": [ 37 ],
     "level": 200,
@@ -3027,10 +3269,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1272040": {
+  {
     "name": "제네시스 체인",
-    "set_item_id": 889,
-    "joker": 1,
+    "item_code": 1272040,
+    "set_code": 889,
+    "joker": true,
     "type": 21,
     "job": [ 37 ],
     "level": 200,
@@ -3041,9 +3284,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1282015": {
+  {
     "name": "파프니르 매직 건틀렛",
-    "set_item_id": 248,
+    "item_code": 1282015,
+    "set_code": 248,
     "type": 21,
     "job": [ 40 ],
     "level": 150,
@@ -3055,9 +3299,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1282016": {
+  {
     "name": "앱솔랩스 매직 건틀렛",
-    "set_item_id": 505,
+    "item_code": 1282016,
+    "set_code": 505,
     "type": 21,
     "job": [ 40 ],
     "level": 160,
@@ -3069,9 +3314,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1282017": {
+  {
     "name": "아케인셰이드 매직 건틀렛",
-    "set_item_id": 618,
+    "item_code": 1282017,
+    "set_code": 618,
     "type": 21,
     "job": [ 40 ],
     "level": 200,
@@ -3083,10 +3329,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1282040": {
+  {
     "name": "제네시스 매직 건틀렛",
-    "set_item_id": 887,
-    "joker": 1,
+    "item_code": 1282040,
+    "set_code": 887,
+    "joker": true,
     "type": 21,
     "job": [ 40 ],
     "level": 200,
@@ -3098,9 +3345,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1292016": {
+  {
     "name": "파프니르 용선",
-    "set_item_id": 250,
+    "item_code": 1292016,
+    "set_code": 250,
     "type": 21,
     "job": [ 43 ],
     "level": 150,
@@ -3111,9 +3359,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1292017": {
+  {
     "name": "앱솔랩스 괴선",
-    "set_item_id": 507,
+    "item_code": 1292017,
+    "set_code": 507,
     "type": 21,
     "job": [ 43 ],
     "level": 160,
@@ -3124,9 +3373,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1292018": {
+  {
     "name": "아케인셰이드 초선",
-    "set_item_id": 620,
+    "item_code": 1292018,
+    "set_code": 620,
     "type": 21,
     "job": [ 43 ],
     "level": 200,
@@ -3137,10 +3387,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1292022": {
+  {
     "name": "제네시스 창세선",
-    "set_item_id": 889,
-    "joker": 1,
+    "item_code": 1292022,
+    "set_code": 889,
+    "joker": true,
     "type": 21,
     "job": [ 43 ],
     "level": 200,
@@ -3151,9 +3402,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1302275": {
+  {
     "name": "파프니르 미스틸테인",
-    "set_item_id": 247,
+    "item_code": 1302275,
+    "set_code": 247,
     "type": 21,
     "job": [ 1, 2, 16, 17 ],
     "level": 150,
@@ -3164,9 +3416,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1302333": {
+  {
     "name": "앱솔랩스 세이버",
-    "set_item_id": 504,
+    "item_code": 1302333,
+    "set_code": 504,
     "type": 21,
     "job": [ 1, 2, 16, 17 ],
     "level": 160,
@@ -3177,9 +3430,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1302343": {
+  {
     "name": "아케인셰이드 세이버",
-    "set_item_id": 617,
+    "item_code": 1302343,
+    "set_code": 617,
     "type": 21,
     "job": [ 1, 2, 16, 17 ],
     "level": 200,
@@ -3190,10 +3444,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1302355": {
+  {
     "name": "제네시스 세이버",
-    "set_item_id": 886,
-    "joker": 1,
+    "item_code": 1302355,
+    "set_code": 886,
+    "joker": true,
     "type": 21,
     "job": [ 1, 2, 16, 17 ],
     "level": 200,
@@ -3204,9 +3459,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1312153": {
+  {
     "name": "파프니르 트윈클리버",
-    "set_item_id": 247,
+    "item_code": 1312153,
+    "set_code": 247,
     "type": 21,
     "job": [ 1, 27 ],
     "level": 150,
@@ -3217,9 +3473,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1312199": {
+  {
     "name": "앱솔랩스 엑스",
-    "set_item_id": 504,
+    "item_code": 1312199,
+    "set_code": 504,
     "type": 21,
     "job": [ 1, 27 ],
     "level": 160,
@@ -3230,9 +3487,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1312203": {
+  {
     "name": "아케인셰이드 엑스",
-    "set_item_id": 617,
+    "item_code": 1312203,
+    "set_code": 617,
     "type": 21,
     "job": [ 1, 27 ],
     "level": 200,
@@ -3243,10 +3501,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1312213": {
+  {
     "name": "제네시스 엑스",
-    "set_item_id": 886,
-    "joker": 1,
+    "item_code": 1312213,
+    "set_code": 886,
+    "joker": true,
     "type": 21,
     "job": [ 1, 27 ],
     "level": 200,
@@ -3257,9 +3516,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1322203": {
+  {
     "name": "파프니르 골디언해머",
-    "set_item_id": 247,
+    "item_code": 1322203,
+    "set_code": 247,
     "type": 21,
     "job": [ 2, 27 ],
     "level": 150,
@@ -3270,9 +3530,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1322250": {
+  {
     "name": "앱솔랩스 비트해머",
-    "set_item_id": 504,
+    "item_code": 1322250,
+    "set_code": 504,
     "type": 21,
     "job": [ 2, 27 ],
     "level": 160,
@@ -3283,9 +3544,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1322255": {
+  {
     "name": "아케인셰이드 해머",
-    "set_item_id": 617,
+    "item_code": 1322255,
+    "set_code": 617,
     "type": 21,
     "job": [ 2, 27 ],
     "level": 200,
@@ -3296,10 +3558,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1322264": {
+  {
     "name": "제네시스 해머",
-    "set_item_id": 886,
-    "joker": 1,
+    "item_code": 1322264,
+    "set_code": 886,
+    "joker": true,
     "type": 21,
     "job": [ 2, 27 ],
     "level": 200,
@@ -3310,9 +3573,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1332225": {
+  {
     "name": "파프니르 다마스커스",
-    "set_item_id": 250,
+    "item_code": 1332225,
+    "set_code": 250,
     "type": 21,
     "job": [ 11, 12 ],
     "level": 150,
@@ -3323,9 +3587,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1332274": {
+  {
     "name": "앱솔랩스 슬래셔",
-    "set_item_id": 507,
+    "item_code": 1332274,
+    "set_code": 507,
     "type": 21,
     "job": [ 11, 12 ],
     "level": 160,
@@ -3336,9 +3601,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1332279": {
+  {
     "name": "아케인셰이드 대거",
-    "set_item_id": 620,
+    "item_code": 1332279,
+    "set_code": 620,
     "type": 21,
     "job": [ 11, 12 ],
     "level": 200,
@@ -3349,10 +3615,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1332289": {
+  {
     "name": "제네시스 대거",
-    "set_item_id": 889,
-    "joker": 1,
+    "item_code": 1332289,
+    "set_code": 889,
+    "joker": true,
     "type": 21,
     "job": [ 11, 12 ],
     "level": 200,
@@ -3363,8 +3630,9 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1342008": {
+  {
     "name": "유성도",
+    "item_code": 1342008,
     "type": 22,
     "job": [ 12 ],
     "level": 100,
@@ -3372,8 +3640,9 @@
     "patk": 52,
     "upgrade_count": 7
   },
-  "1342009": {
+  {
     "name": "용연도",
+    "item_code": 1342009,
     "type": 22,
     "job": [ 12 ],
     "level": 105,
@@ -3382,8 +3651,9 @@
     "crit_damage": 10,
     "upgrade_count": 7
   },
-  "1342042": {
+  {
     "name": "드래고닉 용연도",
+    "item_code": 1342042,
     "type": 22,
     "job": [ 12 ],
     "level": 110,
@@ -3394,8 +3664,9 @@
     "crit_damage": 10,
     "upgrade_count": 8
   },
-  "1342082": {
+  {
     "name": "파프니르 래피드엣지",
+    "item_code": 1342082,
     "type": 22,
     "job": [ 12 ],
     "level": 150,
@@ -3403,8 +3674,9 @@
     "patk": 81,
     "upgrade_count": 8
   },
-  "1342101": {
+  {
     "name": "앱솔랩스 블레이드",
+    "item_code": 1342101,
     "type": 22,
     "job": [ 12 ],
     "level": 160,
@@ -3412,8 +3684,9 @@
     "patk": 97,
     "upgrade_count": 8
   },
-  "1342104": {
+  {
     "name": "아케인셰이드 블레이드",
+    "item_code": 1342104,
     "type": 22,
     "job": [ 12 ],
     "level": 200,
@@ -3421,34 +3694,39 @@
     "patk": 140,
     "upgrade_count": 8
   },
-  "1352003": {
+  {
     "name": "무한의 마법 화살",
+    "item_code": 1352003,
     "type": 22,
     "job": [ 32 ],
     "level": 100
   },
-  "1352012": {
+  {
     "name": "이볼빙 무한의 마법 화살",
+    "item_code": 1352012,
     "type": 22,
     "job": [ 32 ],
     "level": 100,
     "patk": 2
   },
-  "1352103": {
+  {
     "name": "데르니에 카르트",
+    "item_code": 1352103,
     "type": 22,
     "job": [ 33 ],
     "level": 100
   },
-  "1352112": {
+  {
     "name": "이볼빙 데르니에 카르트",
+    "item_code": 1352112,
     "type": 22,
     "job": [ 33 ],
     "level": 100,
     "patk": 2
   },
-  "1352202": {
+  {
     "name": "버츄스 메달",
+    "item_code": 1352202,
     "type": 22,
     "job": [ 1 ],
     "level": 100,
@@ -3456,8 +3734,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1352203": {
+  {
     "name": "이볼빙 버츄스 메달",
+    "item_code": 1352203,
     "type": 22,
     "job": [ 1 ],
     "level": 100,
@@ -3465,8 +3744,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1352212": {
+  {
     "name": "세이크리드 로자리오",
+    "item_code": 1352212,
     "type": 22,
     "job": [ 2 ],
     "level": 100,
@@ -3474,8 +3754,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1352213": {
+  {
     "name": "이볼빙 세이크리드 로자리오",
+    "item_code": 1352213,
     "type": 22,
     "job": [ 2 ],
     "level": 100,
@@ -3483,8 +3764,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1352222": {
+  {
     "name": "버서크 체인",
+    "item_code": 1352222,
     "type": 22,
     "job": [ 3 ],
     "level": 100,
@@ -3492,8 +3774,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1352223": {
+  {
     "name": "이볼빙 버서크 체인",
+    "item_code": 1352223,
     "type": 22,
     "job": [ 3 ],
     "level": 100,
@@ -3501,8 +3784,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1352232": {
+  {
     "name": "적녹의 서 <종장>",
+    "item_code": 1352232,
     "type": 22,
     "job": [ 4 ],
     "level": 100,
@@ -3510,8 +3794,9 @@
     "luk": 10,
     "matk": 3
   },
-  "1352233": {
+  {
     "name": "이볼빙 적녹의 서 <종장>",
+    "item_code": 1352233,
     "type": 22,
     "job": [ 4 ],
     "level": 100,
@@ -3519,8 +3804,9 @@
     "luk": 10,
     "matk": 5
   },
-  "1352242": {
+  {
     "name": "청은의 서 <종장>",
+    "item_code": 1352242,
     "type": 22,
     "job": [ 5 ],
     "level": 100,
@@ -3528,8 +3814,9 @@
     "luk": 10,
     "matk": 3
   },
-  "1352243": {
+  {
     "name": "이볼빙 청은의 서 <종장>",
+    "item_code": 1352243,
     "type": 22,
     "job": [ 5 ],
     "level": 100,
@@ -3537,8 +3824,9 @@
     "luk": 10,
     "matk": 5
   },
-  "1352252": {
+  {
     "name": "백금의 서 <종장>",
+    "item_code": 1352252,
     "type": 22,
     "job": [ 6 ],
     "level": 100,
@@ -3546,8 +3834,9 @@
     "luk": 10,
     "matk": 3
   },
-  "1352253": {
+  {
     "name": "이볼빙 백금의 서 <종장>",
+    "item_code": 1352253,
     "type": 22,
     "job": [ 6 ],
     "level": 100,
@@ -3555,8 +3844,9 @@
     "luk": 10,
     "matk": 5
   },
-  "1352262": {
+  {
     "name": "블라스트 페더",
+    "item_code": 1352262,
     "type": 22,
     "job": [ 7 ],
     "level": 100,
@@ -3564,8 +3854,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1352263": {
+  {
     "name": "이볼빙 블라스트 페더",
+    "item_code": 1352263,
     "type": 22,
     "job": [ 7 ],
     "level": 100,
@@ -3573,8 +3864,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1352272": {
+  {
     "name": "전발적중",
+    "item_code": 1352272,
     "type": 22,
     "job": [ 8 ],
     "level": 100,
@@ -3582,8 +3874,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1352273": {
+  {
     "name": "이볼빙 전발적중",
+    "item_code": 1352273,
     "type": 22,
     "job": [ 8 ],
     "level": 100,
@@ -3591,8 +3884,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1352282": {
+  {
     "name": "슬래싱 섀도우",
+    "item_code": 1352282,
     "type": 22,
     "job": [ 11 ],
     "level": 100,
@@ -3600,8 +3894,9 @@
     "luk": 10,
     "patk": 3
   },
-  "1352283": {
+  {
     "name": "이볼빙 슬래싱 섀도우",
+    "item_code": 1352283,
     "type": 22,
     "job": [ 11 ],
     "level": 100,
@@ -3609,8 +3904,9 @@
     "luk": 10,
     "patk": 5
   },
-  "1352292": {
+  {
     "name": "파사부",
+    "item_code": 1352292,
     "type": 22,
     "job": [ 10 ],
     "level": 100,
@@ -3618,8 +3914,9 @@
     "luk": 10,
     "patk": 3
   },
-  "1352293": {
+  {
     "name": "이볼빙 파사부",
+    "item_code": 1352293,
     "type": 22,
     "job": [ 10 ],
     "level": 100,
@@ -3627,21 +3924,24 @@
     "luk": 10,
     "patk": 5
   },
-  "1352404": {
+  {
     "name": "카르마 오브",
+    "item_code": 1352404,
     "type": 22,
     "job": [ 30 ],
     "level": 100
   },
-  "1352409": {
+  {
     "name": "이볼빙 카르마 오브",
+    "item_code": 1352409,
     "type": 22,
     "job": [ 30 ],
     "level": 100,
     "matk": 2
   },
-  "1352503": {
+  {
     "name": "진리의 노바의 정수",
+    "item_code": 1352503,
     "type": 22,
     "job": [ 35 ],
     "level": 100,
@@ -3650,8 +3950,9 @@
     "int": 10,
     "luk": 10
   },
-  "1352509": {
+  {
     "name": "이볼빙 진리의 노바의 정수",
+    "item_code": 1352509,
     "type": 22,
     "job": [ 35 ],
     "level": 100,
@@ -3661,8 +3962,9 @@
     "luk": 10,
     "patk": 2
   },
-  "1352604": {
+  {
     "name": "그린 소울링",
+    "item_code": 1352604,
     "type": 22,
     "job": [ 38 ],
     "level": 100,
@@ -3672,8 +3974,9 @@
     "luk": 10,
     "max_hp": 900
   },
-  "1352609": {
+  {
     "name": "이볼빙 그린 소울링",
+    "item_code": 1352609,
     "type": 22,
     "job": [ 38 ],
     "level": 100,
@@ -3684,23 +3987,26 @@
     "max_hp": 900,
     "patk": 2
   },
-  "1352703": {
+  {
     "name": "이터널 매그넘",
+    "item_code": 1352703,
     "type": 22,
     "job": [ 25 ],
     "level": 100,
     "dex": 10
   },
-  "1352710": {
+  {
     "name": "이볼빙 이터널 매그넘",
+    "item_code": 1352710,
     "type": 22,
     "job": [ 25 ],
     "level": 100,
     "dex": 10,
     "patk": 2
   },
-  "1352902": {
+  {
     "name": "리스트 아머",
+    "item_code": 1352902,
     "type": 22,
     "job": [ 13 ],
     "level": 100,
@@ -3708,8 +4014,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1352903": {
+  {
     "name": "이볼빙 리스트 아머",
+    "item_code": 1352903,
     "type": 22,
     "job": [ 13 ],
     "level": 100,
@@ -3717,8 +4024,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1352912": {
+  {
     "name": "팔콘아이",
+    "item_code": 1352912,
     "type": 22,
     "job": [ 14 ],
     "level": 100,
@@ -3726,8 +4034,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1352913": {
+  {
     "name": "이볼빙 팔콘아이",
+    "item_code": 1352913,
     "type": 22,
     "job": [ 14 ],
     "level": 100,
@@ -3735,8 +4044,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1352922": {
+  {
     "name": "봄버드 센터파이어",
+    "item_code": 1352922,
     "type": 22,
     "job": [ 15 ],
     "level": 100,
@@ -3744,8 +4054,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1352923": {
+  {
     "name": "이볼빙 봄버드 센터파이어",
+    "item_code": 1352923,
     "type": 22,
     "job": [ 15 ],
     "level": 100,
@@ -3753,8 +4064,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1352932": {
+  {
     "name": "천룡추",
+    "item_code": 1352932,
     "type": 22,
     "job": [ 29 ],
     "level": 100,
@@ -3762,8 +4074,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1352933": {
+  {
     "name": "이볼빙 천룡추",
+    "item_code": 1352933,
     "type": 22,
     "job": [ 29 ],
     "level": 100,
@@ -3771,8 +4084,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1352942": {
+  {
     "name": "드래곤마스터의 유산",
+    "item_code": 1352942,
     "type": 22,
     "job": [ 31 ],
     "level": 100,
@@ -3780,8 +4094,9 @@
     "luk": 10,
     "matk": 3
   },
-  "1352943": {
+  {
     "name": "이볼빙 드래곤마스터의 유산",
+    "item_code": 1352943,
     "type": 22,
     "job": [ 31 ],
     "level": 100,
@@ -3789,8 +4104,9 @@
     "luk": 10,
     "matk": 5
   },
-  "1352952": {
+  {
     "name": "맥시마이즈 볼",
+    "item_code": 1352952,
     "type": 22,
     "job": [ 23 ],
     "level": 100,
@@ -3798,8 +4114,9 @@
     "luk": 10,
     "matk": 3
   },
-  "1352953": {
+  {
     "name": "이볼빙 맥시마이즈 볼",
+    "item_code": 1352953,
     "type": 22,
     "job": [ 23 ],
     "level": 100,
@@ -3807,8 +4124,9 @@
     "luk": 10,
     "matk": 5
   },
-  "1352962": {
+  {
     "name": "와일드 팡",
+    "item_code": 1352962,
     "type": 22,
     "job": [ 24 ],
     "level": 100,
@@ -3816,8 +4134,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1352963": {
+  {
     "name": "이볼빙 와일드 팡",
+    "item_code": 1352963,
     "type": 22,
     "job": [ 24 ],
     "level": 100,
@@ -3825,8 +4144,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1352972": {
+  {
     "name": "에레브의 광휘",
+    "item_code": 1352972,
     "type": 22,
     "job_class": 2,
     "level": 100,
@@ -3837,8 +4157,9 @@
     "patk": 3,
     "matk": 3
   },
-  "1352973": {
+  {
     "name": "이볼빙 에레브의 광휘",
+    "item_code": 1352973,
     "type": 22,
     "job_class": 2,
     "level": 100,
@@ -3849,8 +4170,9 @@
     "patk": 5,
     "matk": 5
   },
-  "1353004": {
+  {
     "name": "옥타코어 컨트롤러",
+    "item_code": 1353004,
     "type": 22,
     "job": [ 26 ],
     "level": 100,
@@ -3861,8 +4183,9 @@
     "max_hp": 900,
     "max_mp": 500
   },
-  "1353009": {
+  {
     "name": "이볼빙 옥타코어 컨트롤러",
+    "item_code": 1353009,
     "type": 22,
     "job": [ 26 ],
     "level": 100,
@@ -3874,8 +4197,9 @@
     "max_mp": 500,
     "patk": 2
   },
-  "1353103": {
+  {
     "name": "황금빛 여우구슬",
+    "item_code": 1353103,
     "type": 22,
     "job": [ 34 ],
     "level": 100,
@@ -3883,8 +4207,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1353108": {
+  {
     "name": "이볼빙 황금빛 여우구슬",
+    "item_code": 1353108,
     "type": 22,
     "job": [ 34 ],
     "level": 100,
@@ -3892,8 +4217,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1353203": {
+  {
     "name": "체스피스 디 퀸",
+    "item_code": 1353203,
     "type": 22,
     "job": [ 45 ],
     "level": 100,
@@ -3901,8 +4227,9 @@
     "luk": 10,
     "matk": 3
   },
-  "1353208": {
+  {
     "name": "이볼빙 체스피스 디 퀸",
+    "item_code": 1353208,
     "type": 22,
     "job": [ 45 ],
     "level": 100,
@@ -3910,8 +4237,9 @@
     "luk": 10,
     "matk": 5
   },
-  "1353303": {
+  {
     "name": "트랜스미터 type:A",
+    "item_code": 1353303,
     "type": 22,
     "job": [ 37 ],
     "level": 100,
@@ -3919,8 +4247,9 @@
     "luk": 10,
     "patk": 3
   },
-  "1353308": {
+  {
     "name": "이볼빙 트랜스미터 type:A",
+    "item_code": 1353308,
     "type": 22,
     "job": [ 37 ],
     "level": 100,
@@ -3928,8 +4257,9 @@
     "luk": 10,
     "patk": 5
   },
-  "1353403": {
+  {
     "name": "익스플로시브 필<3호>",
+    "item_code": 1353403,
     "type": 22,
     "job": [ 22 ],
     "level": 100,
@@ -3937,8 +4267,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1353407": {
+  {
     "name": "이볼빙 익스플로시브 필<3호>",
+    "item_code": 1353407,
     "type": 22,
     "job": [ 22 ],
     "level": 100,
@@ -3946,8 +4277,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1353503": {
+  {
     "name": "글로리 매직윙",
+    "item_code": 1353503,
     "type": 22,
     "job": [ 40 ],
     "level": 100,
@@ -3955,8 +4287,9 @@
     "luk": 10,
     "matk": 3
   },
-  "1353507": {
+  {
     "name": "이볼빙 글로리 매직윙",
+    "item_code": 1353507,
     "type": 22,
     "job": [ 40 ],
     "level": 100,
@@ -3964,8 +4297,9 @@
     "luk": 10,
     "matk": 5
   },
-  "1353603": {
+  {
     "name": "얼티밋 패스",
+    "item_code": 1353603,
     "type": 22,
     "job": [ 41 ],
     "level": 100,
@@ -3973,8 +4307,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1353607": {
+  {
     "name": "이볼빙 얼티밋 패스",
+    "item_code": 1353607,
     "type": 22,
     "job": [ 41 ],
     "level": 100,
@@ -3982,8 +4317,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1353703": {
+  {
     "name": "퍼펙트 렐릭",
+    "item_code": 1353703,
     "type": 22,
     "job": [ 9 ],
     "level": 100,
@@ -3991,8 +4327,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1353705": {
+  {
     "name": "이볼빙 퍼펙트 렐릭",
+    "item_code": 1353705,
     "type": 22,
     "job": [ 9 ],
     "level": 100,
@@ -4000,8 +4337,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1353803": {
+  {
     "name": "월장석 선추",
+    "item_code": 1353803,
     "type": 22,
     "job": [ 43 ],
     "level": 100,
@@ -4009,8 +4347,9 @@
     "luk": 10,
     "patk": 3
   },
-  "1353806": {
+  {
     "name": "이볼빙 월장석 선추",
+    "item_code": 1353806,
     "type": 22,
     "job": [ 43 ],
     "level": 100,
@@ -4018,8 +4357,9 @@
     "luk": 10,
     "patk": 5
   },
-  "1354003": {
+  {
     "name": "노블 브레이슬릿",
+    "item_code": 1354003,
     "type": 22,
     "job": [ 39 ],
     "level": 100,
@@ -4027,8 +4367,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1354006": {
+  {
     "name": "이볼빙 노블 브레이슬릿",
+    "item_code": 1354006,
     "type": 22,
     "job": [ 39 ],
     "level": 100,
@@ -4036,8 +4377,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1354013": {
+  {
     "name": "D100 커스텀 웨폰 벨트",
+    "item_code": 1354013,
     "type": 22,
     "job": [ 36 ],
     "level": 100,
@@ -4045,8 +4387,9 @@
     "dex": 10,
     "patk": 3
   },
-  "1354016": {
+  {
     "name": "이볼빙 D100 웨폰 벨트",
+    "item_code": 1354016,
     "type": 22,
     "job": [ 36 ],
     "level": 100,
@@ -4054,8 +4397,9 @@
     "dex": 10,
     "patk": 5
   },
-  "1354023": {
+  {
     "name": "빛나는 사옥 노리개",
+    "item_code": 1354023,
     "type": 22,
     "job": [ 42 ],
     "level": 100,
@@ -4063,8 +4407,9 @@
     "luk": 10,
     "matk": 3
   },
-  "1354026": {
+  {
     "name": "이볼빙 사옥 노리개",
+    "item_code": 1354026,
     "type": 22,
     "job": [ 42 ],
     "level": 100,
@@ -4072,9 +4417,10 @@
     "luk": 10,
     "matk": 5
   },
-  "1362090": {
+  {
     "name": "파프니르 클레르시엘",
-    "set_item_id": 250,
+    "item_code": 1362090,
+    "set_code": 250,
     "type": 21,
     "job": [ 33 ],
     "level": 150,
@@ -4085,9 +4431,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1362135": {
+  {
     "name": "앱솔랩스 핀쳐케인",
-    "set_item_id": 507,
+    "item_code": 1362135,
+    "set_code": 507,
     "type": 21,
     "job": [ 33 ],
     "level": 160,
@@ -4098,9 +4445,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1362140": {
+  {
     "name": "아케인셰이드 케인",
-    "set_item_id": 620,
+    "item_code": 1362140,
+    "set_code": 620,
     "type": 21,
     "job": [ 33 ],
     "level": 200,
@@ -4111,10 +4459,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1362149": {
+  {
     "name": "제네시스 케인",
-    "set_item_id": 889,
-    "joker": 1,
+    "item_code": 1362149,
+    "set_code": 889,
+    "joker": true,
     "type": 21,
     "job": [ 33 ],
     "level": 200,
@@ -4125,9 +4474,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1372177": {
+  {
     "name": "파프니르 마나테이커",
-    "set_item_id": 248,
+    "item_code": 1372177,
+    "set_code": 248,
     "type": 21,
     "job": [ 4, 5, 6, 18, 31, 42 ],
     "level": 150,
@@ -4139,9 +4489,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1372222": {
+  {
     "name": "앱솔랩스 스펠링완드",
-    "set_item_id": 505,
+    "item_code": 1372222,
+    "set_code": 505,
     "type": 21,
     "job": [ 4, 5, 6, 18, 31, 42 ],
     "level": 160,
@@ -4153,9 +4504,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1372228": {
+  {
     "name": "아케인셰이드 완드",
-    "set_item_id": 618,
+    "item_code": 1372228,
+    "set_code": 618,
     "type": 21,
     "job": [ 4, 5, 6, 18, 31, 42 ],
     "level": 200,
@@ -4167,10 +4519,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1372237": {
+  {
     "name": "제네시스 완드",
-    "set_item_id": 887,
-    "joker": 1,
+    "item_code": 1372237,
+    "set_code": 887,
+    "joker": true,
     "type": 21,
     "job": [ 4, 5, 6, 18, 31, 42 ],
     "level": 200,
@@ -4182,9 +4535,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1382208": {
+  {
     "name": "파프니르 마나크라운",
-    "set_item_id": 248,
+    "item_code": 1382208,
+    "set_code": 248,
     "type": 21,
     "job": [ 4, 5, 6, 18, 23, 31 ],
     "level": 150,
@@ -4196,9 +4550,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1382259": {
+  {
     "name": "앱솔랩스 스펠링스태프",
-    "set_item_id": 505,
+    "item_code": 1382259,
+    "set_code": 505,
     "type": 21,
     "job": [ 4, 5, 6, 18, 23, 31 ],
     "level": 160,
@@ -4210,9 +4565,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1382265": {
+  {
     "name": "아케인셰이드 스태프",
-    "set_item_id": 618,
+    "item_code": 1382265,
+    "set_code": 618,
     "type": 21,
     "job": [ 4, 5, 6, 18, 23, 31 ],
     "level": 200,
@@ -4224,10 +4580,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1382274": {
+  {
     "name": "제네시스 스태프",
-    "set_item_id": 887,
-    "joker": 1,
+    "item_code": 1382274,
+    "set_code": 887,
+    "joker": true,
     "type": 21,
     "job": [ 4, 5, 6, 18, 23, 31 ],
     "level": 200,
@@ -4239,8 +4596,9 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1402180": {
+  {
     "name": "해방된 카이세리움",
+    "item_code": 1402180,
     "type": 21,
     "job": [ 1, 2, 16, 35 ],
     "level": 150,
@@ -4251,9 +4609,10 @@
     "patk": 400,
     "upgrade_count": 1
   },
-  "1402196": {
+  {
     "name": "파프니르 페니텐시아",
-    "set_item_id": 247,
+    "item_code": 1402196,
+    "set_code": 247,
     "type": 21,
     "job": [ 1, 2, 16, 35 ],
     "level": 150,
@@ -4264,9 +4623,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1402251": {
+  {
     "name": "앱솔랩스 브로드세이버",
-    "set_item_id": 504,
+    "item_code": 1402251,
+    "set_code": 504,
     "type": 21,
     "job": [ 1, 2, 16, 35 ],
     "level": 160,
@@ -4277,9 +4637,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1402259": {
+  {
     "name": "아케인셰이드 투핸드소드",
-    "set_item_id": 617,
+    "item_code": 1402259,
+    "set_code": 617,
     "type": 21,
     "job": [ 1, 2, 16, 35 ],
     "level": 200,
@@ -4290,10 +4651,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1402268": {
+  {
     "name": "제네시스 투핸드소드",
-    "set_item_id": 886,
-    "joker": 1,
+    "item_code": 1402268,
+    "set_code": 886,
+    "joker": true,
     "type": 21,
     "job": [ 1, 2, 16, 35 ],
     "level": 200,
@@ -4304,9 +4666,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1412135": {
+  {
     "name": "파프니르 배틀클리버",
-    "set_item_id": 247,
+    "item_code": 1412135,
+    "set_code": 247,
     "type": 21,
     "job": [ 1 ],
     "level": 150,
@@ -4317,9 +4680,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1412177": {
+  {
     "name": "앱솔랩스 브로드엑스",
-    "set_item_id": 504,
+    "item_code": 1412177,
+    "set_code": 504,
     "type": 21,
     "job": [ 1 ],
     "level": 160,
@@ -4330,9 +4694,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1412181": {
+  {
     "name": "아케인셰이드 투핸드엑스",
-    "set_item_id": 617,
+    "item_code": 1412181,
+    "set_code": 617,
     "type": 21,
     "job": [ 1 ],
     "level": 200,
@@ -4343,10 +4708,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1412189": {
+  {
     "name": "제네시스 투핸드엑스",
-    "set_item_id": 886,
-    "joker": 1,
+    "item_code": 1412189,
+    "set_code": 886,
+    "joker": true,
     "type": 21,
     "job": [ 1 ],
     "level": 200,
@@ -4357,9 +4723,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1422140": {
+  {
     "name": "파프니르 라이트닝어",
-    "set_item_id": 247,
+    "item_code": 1422140,
+    "set_code": 247,
     "type": 21,
     "job": [ 2 ],
     "level": 150,
@@ -4370,9 +4737,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1422184": {
+  {
     "name": "앱솔랩스 브로드해머",
-    "set_item_id": 504,
+    "item_code": 1422184,
+    "set_code": 504,
     "type": 21,
     "job": [ 2 ],
     "level": 160,
@@ -4383,9 +4751,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1422189": {
+  {
     "name": "아케인셰이드 투핸드해머",
-    "set_item_id": 617,
+    "item_code": 1422189,
+    "set_code": 617,
     "type": 21,
     "job": [ 2 ],
     "level": 200,
@@ -4396,10 +4765,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1422197": {
+  {
     "name": "제네시스 투핸드해머",
-    "set_item_id": 886,
-    "joker": 1,
+    "item_code": 1422197,
+    "set_code": 886,
+    "joker": true,
     "type": 21,
     "job": [ 2 ],
     "level": 200,
@@ -4410,9 +4780,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1432167": {
+  {
     "name": "파프니르 브류나크",
-    "set_item_id": 247,
+    "item_code": 1432167,
+    "set_code": 247,
     "type": 21,
     "job": [ 3 ],
     "level": 150,
@@ -4423,9 +4794,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1432214": {
+  {
     "name": "앱솔랩스 피어싱스피어",
-    "set_item_id": 504,
+    "item_code": 1432214,
+    "set_code": 504,
     "type": 21,
     "job": [ 3 ],
     "level": 160,
@@ -4436,9 +4808,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1432218": {
+  {
     "name": "아케인셰이드 스피어",
-    "set_item_id": 617,
+    "item_code": 1432218,
+    "set_code": 617,
     "type": 21,
     "job": [ 3 ],
     "level": 200,
@@ -4449,10 +4822,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1432227": {
+  {
     "name": "제네시스 스피어",
-    "set_item_id": 886,
-    "joker": 1,
+    "item_code": 1432227,
+    "set_code": 886,
+    "joker": true,
     "type": 21,
     "job": [ 3 ],
     "level": 200,
@@ -4463,9 +4837,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1442223": {
+  {
     "name": "파프니르 문글레이브",
-    "set_item_id": 247,
+    "item_code": 1442223,
+    "set_code": 247,
     "type": 21,
     "job": [ 3, 29 ],
     "level": 150,
@@ -4476,9 +4851,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1442268": {
+  {
     "name": "앱솔랩스 핼버드",
-    "set_item_id": 504,
+    "item_code": 1442268,
+    "set_code": 504,
     "type": 21,
     "job": [ 3, 29 ],
     "level": 160,
@@ -4489,9 +4865,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1442274": {
+  {
     "name": "아케인셰이드 폴암",
-    "set_item_id": 617,
+    "item_code": 1442274,
+    "set_code": 617,
     "type": 21,
     "job": [ 3, 29 ],
     "level": 200,
@@ -4502,10 +4879,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1442285": {
+  {
     "name": "제네시스 폴암",
-    "set_item_id": 886,
-    "joker": 1,
+    "item_code": 1442285,
+    "set_code": 886,
+    "joker": true,
     "type": 21,
     "job": [ 3, 29 ],
     "level": 200,
@@ -4516,9 +4894,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1452205": {
+  {
     "name": "파프니르 윈드체이서",
-    "set_item_id": 249,
+    "item_code": 1452205,
+    "set_code": 249,
     "type": 21,
     "job": [ 7, 19 ],
     "level": 150,
@@ -4529,9 +4908,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1452252": {
+  {
     "name": "앱솔랩스 슈팅보우",
-    "set_item_id": 506,
+    "item_code": 1452252,
+    "set_code": 506,
     "type": 21,
     "job": [ 7, 19 ],
     "level": 160,
@@ -4542,9 +4922,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1452257": {
+  {
     "name": "아케인셰이드 보우",
-    "set_item_id": 619,
+    "item_code": 1452257,
+    "set_code": 619,
     "type": 21,
     "job": [ 7, 19 ],
     "level": 200,
@@ -4555,10 +4936,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1452266": {
+  {
     "name": "제네시스 보우",
-    "set_item_id": 888,
-    "joker": 1,
+    "item_code": 1452266,
+    "set_code": 888,
+    "joker": true,
     "type": 21,
     "job": [ 7, 19 ],
     "level": 200,
@@ -4569,9 +4951,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1462193": {
+  {
     "name": "파프니르 윈드윙슈터",
-    "set_item_id": 249,
+    "item_code": 1462193,
+    "set_code": 249,
     "type": 21,
     "job": [ 8, 24 ],
     "level": 150,
@@ -4582,9 +4965,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1462239": {
+  {
     "name": "앱솔랩스 크로스보우",
-    "set_item_id": 506,
+    "item_code": 1462239,
+    "set_code": 506,
     "type": 21,
     "job": [ 8, 24 ],
     "level": 160,
@@ -4595,9 +4979,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1462243": {
+  {
     "name": "아케인셰이드 크로스보우",
-    "set_item_id": 619,
+    "item_code": 1462243,
+    "set_code": 619,
     "type": 21,
     "job": [ 8, 24 ],
     "level": 200,
@@ -4608,10 +4993,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1462252": {
+  {
     "name": "제네시스 크로스보우",
-    "set_item_id": 888,
-    "joker": 1,
+    "item_code": 1462252,
+    "set_code": 888,
+    "joker": true,
     "type": 21,
     "job": [ 8, 24 ],
     "level": 200,
@@ -4622,9 +5008,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1472214": {
+  {
     "name": "파프니르 리스크홀더",
-    "set_item_id": 250,
+    "item_code": 1472214,
+    "set_code": 250,
     "type": 21,
     "job": [ 10, 20 ],
     "level": 150,
@@ -4635,9 +5022,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1472261": {
+  {
     "name": "앱솔랩스 리벤지가즈",
-    "set_item_id": 507,
+    "item_code": 1472261,
+    "set_code": 507,
     "type": 21,
     "job": [ 10, 20 ],
     "level": 160,
@@ -4648,9 +5036,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1472265": {
+  {
     "name": "아케인셰이드 가즈",
-    "set_item_id": 620,
+    "item_code": 1472265,
+    "set_code": 620,
     "type": 21,
     "job": [ 10, 20 ],
     "level": 200,
@@ -4661,10 +5050,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1472275": {
+  {
     "name": "제네시스 가즈",
-    "set_item_id": 889,
-    "joker": 1,
+    "item_code": 1472275,
+    "set_code": 889,
+    "joker": true,
     "type": 21,
     "job": [ 10, 20 ],
     "level": 200,
@@ -4675,9 +5065,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1482168": {
+  {
     "name": "파프니르 펜리르탈론",
-    "set_item_id": 251,
+    "item_code": 1482168,
+    "set_code": 251,
     "type": 21,
     "job": [ 13, 21, 34, 41 ],
     "level": 150,
@@ -4688,9 +5079,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1482216": {
+  {
     "name": "앱솔랩스 블로우너클",
-    "set_item_id": 508,
+    "item_code": 1482216,
+    "set_code": 508,
     "type": 21,
     "job": [ 13, 21, 34, 41 ],
     "level": 160,
@@ -4701,9 +5093,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1482221": {
+  {
     "name": "아케인셰이드 클로",
-    "set_item_id": 621,
+    "item_code": 1482221,
+    "set_code": 621,
     "type": 21,
     "job": [ 13, 21, 34, 41 ],
     "level": 200,
@@ -4714,10 +5107,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1482232": {
+  {
     "name": "제네시스 클로",
-    "set_item_id": 890,
-    "joker": 1,
+    "item_code": 1482232,
+    "set_code": 890,
+    "joker": true,
     "type": 21,
     "job": [ 13, 21, 34, 41 ],
     "level": 200,
@@ -4728,9 +5122,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1492179": {
+  {
     "name": "파프니르 첼리스카",
-    "set_item_id": 251,
+    "item_code": 1492179,
+    "set_code": 251,
     "type": 21,
     "job": [ 14, 25 ],
     "level": 150,
@@ -4741,9 +5136,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1492231": {
+  {
     "name": "앱솔랩스 포인팅건",
-    "set_item_id": 508,
+    "item_code": 1492231,
+    "set_code": 508,
     "type": 21,
     "job": [ 14, 25 ],
     "level": 160,
@@ -4754,9 +5150,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1492235": {
+  {
     "name": "아케인셰이드 피스톨",
-    "set_item_id": 621,
+    "item_code": 1492235,
+    "set_code": 621,
     "type": 21,
     "job": [ 14, 25 ],
     "level": 200,
@@ -4767,10 +5164,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1492245": {
+  {
     "name": "제네시스 피스톨",
-    "set_item_id": 890,
-    "joker": 1,
+    "item_code": 1492245,
+    "set_code": 890,
+    "joker": true,
     "type": 21,
     "job": [ 14, 25 ],
     "level": 200,
@@ -4781,9 +5179,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1522094": {
+  {
     "name": "파프니르 듀얼윈드윙",
-    "set_item_id": 249,
+    "item_code": 1522094,
+    "set_code": 249,
     "type": 21,
     "job": [ 32 ],
     "level": 150,
@@ -4794,9 +5193,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1522138": {
+  {
     "name": "앱솔랩스 듀얼보우건",
-    "set_item_id": 506,
+    "item_code": 1522138,
+    "set_code": 506,
     "type": 21,
     "job": [ 32 ],
     "level": 160,
@@ -4807,9 +5207,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1522143": {
+  {
     "name": "아케인셰이드 듀얼보우건",
-    "set_item_id": 619,
+    "item_code": 1522143,
+    "set_code": 619,
     "type": 21,
     "job": [ 32 ],
     "level": 200,
@@ -4820,10 +5221,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1522152": {
+  {
     "name": "제네시스 듀얼보우건",
-    "set_item_id": 888,
-    "joker": 1,
+    "item_code": 1522152,
+    "set_code": 888,
+    "joker": true,
     "type": 21,
     "job": [ 32 ],
     "level": 200,
@@ -4834,9 +5236,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1532098": {
+  {
     "name": "파프니르 러스터캐논",
-    "set_item_id": 251,
+    "item_code": 1532098,
+    "set_code": 251,
     "type": 21,
     "job": [ 15 ],
     "level": 150,
@@ -4847,9 +5250,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1532144": {
+  {
     "name": "앱솔랩스 블래스트캐논",
-    "set_item_id": 508,
+    "item_code": 1532144,
+    "set_code": 508,
     "type": 21,
     "job": [ 15 ],
     "level": 160,
@@ -4860,9 +5264,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1532150": {
+  {
     "name": "아케인셰이드 시즈건",
-    "set_item_id": 621,
+    "item_code": 1532150,
+    "set_code": 621,
     "type": 21,
     "job": [ 15 ],
     "level": 200,
@@ -4873,10 +5278,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1532157": {
+  {
     "name": "제네시스 시즈건",
-    "set_item_id": 890,
-    "joker": 1,
+    "item_code": 1532157,
+    "set_code": 890,
+    "joker": true,
     "type": 21,
     "job": [ 15 ],
     "level": 200,
@@ -4887,8 +5293,9 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1562007": {
+  {
     "name": "라피스 7형",
+    "item_code": 1562007,
     "type": 22,
     "job": [ 44 ],
     "level": 170,
@@ -4897,8 +5304,9 @@
     "armor_ignore": 10,
     "boss_damage": 30
   },
-  "1562008": {
+  {
     "name": "라피스 8형",
+    "item_code": 1562008,
     "type": 22,
     "job": [ 44 ],
     "level": 180,
@@ -4907,8 +5315,9 @@
     "armor_ignore": 10,
     "boss_damage": 30
   },
-  "1562009": {
+  {
     "name": "라피스 9형",
+    "item_code": 1562009,
     "type": 22,
     "job": [ 44 ],
     "level": 200,
@@ -4917,8 +5326,9 @@
     "armor_ignore": 20,
     "boss_damage": 30
   },
-  "1562010": {
+  {
     "name": "제네시스 라피스",
+    "item_code": 1562010,
     "type": 22,
     "job": [ 44 ],
     "level": 200,
@@ -4927,8 +5337,9 @@
     "armor_ignore": 20,
     "boss_damage": 30
   },
-  "1572007": {
+  {
     "name": "라즐리 7형",
+    "item_code": 1572007,
     "type": 21,
     "job": [ 44 ],
     "level": 170,
@@ -4939,8 +5350,9 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1572008": {
+  {
     "name": "라즐리 8형",
+    "item_code": 1572008,
     "type": 21,
     "job": [ 44 ],
     "level": 180,
@@ -4951,8 +5363,9 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1572009": {
+  {
     "name": "라즐리 9형",
+    "item_code": 1572009,
     "type": 21,
     "job": [ 44 ],
     "level": 200,
@@ -4963,10 +5376,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1572010": {
+  {
     "name": "제네시스 라즐리",
-    "set_item_id": 886,
-    "joker": 1,
+    "item_code": 1572010,
+    "set_code": 886,
+    "joker": true,
     "type": 21,
     "job": [ 44 ],
     "level": 200,
@@ -4978,9 +5392,10 @@
     "upgrade_count": 8
   },
 
-  "1582016": {
+  {
     "name": "파프니르 빅 마운틴",
-    "set_item_id": 247,
+    "item_code": 1582016,
+    "set_code": 247,
     "type": 21,
     "job": [ 22 ],
     "level": 150,
@@ -4991,9 +5406,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1582017": {
+  {
     "name": "앱솔랩스 파일 갓",
-    "set_item_id": 504,
+    "item_code": 1582017,
+    "set_code": 504,
     "type": 21,
     "job": [ 22 ],
     "level": 160,
@@ -5004,9 +5420,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1582023": {
+  {
     "name": "아케인셰이드 엘라하",
-    "set_item_id": 617,
+    "item_code": 1582023,
+    "set_code": 617,
     "type": 21,
     "job": [ 22 ],
     "level": 200,
@@ -5017,10 +5434,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1582044": {
+  {
     "name": "제네시스 엘라하",
-    "set_item_id": 886,
-    "joker": 1,
+    "item_code": 1582044,
+    "set_code": 886,
+    "joker": true,
     "type": 21,
     "job": [ 22 ],
     "level": 200,
@@ -5031,9 +5449,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1592018": {
+  {
     "name": "파프니르 에인션트 보우",
-    "set_item_id": 249,
+    "item_code": 1592018,
+    "set_code": 249,
     "type": 21,
     "job": [ 9 ],
     "level": 150,
@@ -5044,9 +5463,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1592019": {
+  {
     "name": "앱솔랩스 에인션트 보우",
-    "set_item_id": 506,
+    "item_code": 1592019,
+    "set_code": 506,
     "type": 21,
     "job": [ 9 ],
     "level": 160,
@@ -5057,9 +5477,10 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1592020": {
+  {
     "name": "아케인셰이드 에인션트 보우",
-    "set_item_id": 619,
+    "item_code": 1592020,
+    "set_code": 619,
     "type": 21,
     "job": [ 9 ],
     "level": 200,
@@ -5070,10 +5491,11 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1592022": {
+  {
     "name": "제네시스 에인션트 보우",
-    "set_item_id": 888,
-    "joker": 1,
+    "item_code": 1592022,
+    "set_code": 888,
+    "joker": true,
     "type": 21,
     "job": [ 9 ],
     "level": 200,
@@ -5084,52 +5506,58 @@
     "boss_damage": 30,
     "upgrade_count": 8
   },
-  "1612004": {
+  {
     "name": "퓨어 골드 엔진",
-    "set_item_id": 125,
+    "item_code": 1612004,
+    "set_code": 125,
     "type": 29,
     "job": [ 25 ],
     "level": 120,
     "patk": 5,
     "upgrade_count": 3
   },
-  "1622004": {
+  {
     "name": "퓨어 골드 머신 암",
-    "set_item_id": 125,
+    "item_code": 1622004,
+    "set_code": 125,
     "type": 30,
     "job": [ 25 ],
     "level": 120,
     "str": 5,
     "upgrade_count": 3
   },
-  "1632003": {
+  {
     "name": "퓨어 골드 머신 레그",
-    "set_item_id": 125,
+    "item_code": 1632003,
+    "set_code": 125,
     "type": 31,
     "job": [ 25 ],
     "level": 120,
     "upgrade_count": 3
   },
-  "1642003": {
+  {
     "name": "퓨어 골드 바디 프레임",
-    "set_item_id": 125,
+    "item_code": 1642003,
+    "set_code": 125,
     "type": 32,
     "job": [ 25 ],
     "level": 120,
     "max_hp": 300,
     "upgrade_count": 3
   },
-  "1652004": {
+  {
     "name": "퓨어 골드 트랜지스터",
-    "set_item_id": 125,
+    "item_code": 1652004,
+    "set_code": 125,
     "type": 33,
     "job": [ 25 ],
     "level": 120,
     "dex": 5,
     "upgrade_count": 3
   },
-  "1672007": {
+  {
     "name": "리튬 하트",
+    "item_code": 1672007,
     "type": 19,
     "level": 30,
     "str": 3,
@@ -5139,8 +5567,9 @@
     "max_hp": 50,
     "upgrade_count": 7
   },
-  "1672040": {
+  {
     "name": "티타늄 하트",
+    "item_code": 1672040,
     "type": 19,
     "level": 100,
     "str": 3,
@@ -5150,15 +5579,17 @@
     "max_hp": 50,
     "upgrade_count": 9
   },
-  "1672073": {
+  {
     "name": "페어리 하트",
+    "item_code": 1672073,
     "type": 19,
     "level": 100,
     "max_hp": 100,
     "upgrade_count": 9
   },
-  "1672077": {
+  {
     "name": "리퀴드메탈 하트",
+    "item_code": 1672077,
     "type": 19,
     "level": 120,
     "str": 3,
@@ -5168,9 +5599,10 @@
     "max_hp": 100,
     "upgrade_count": 9
   },
-  "1672082": {
+  {
     "name": "블랙 하트",
-    "set_item_id": 677,
+    "item_code": 1672082,
+    "set_code": 677,
     "type": 19,
     "level": 120,
     "str": 50,
@@ -5182,18 +5614,20 @@
     "matk": 77,
     "armor_ignore": 30,
     "boss_damage": 30,
-    "block_star": 1
+    "block_star": true
   },
-  "1942002": {
+  {
     "name": "리버스 마스크",
+    "item_code": 1942002,
     "type": 25,
     "job": [ 31 ],
     "level": 120,
     "int": 6,
     "upgrade_count": 3
   },
-  "1942004": {
+  {
     "name": "어비스 마스크",
+    "item_code": 1942004,
     "type": 25,
     "job": [ 31 ],
     "level": 125,
@@ -5201,52 +5635,59 @@
     "matk": 1,
     "upgrade_count": 4
   },
-  "1952002": {
+  {
     "name": "리버스 펜던트",
+    "item_code": 1952002,
     "type": 26,
     "job": [ 31 ],
     "level": 120,
     "luk": 6,
     "upgrade_count": 3
   },
-  "1952004": {
+  {
     "name": "어비스 펜던트",
+    "item_code": 1952004,
     "type": 26,
     "job": [ 31 ],
     "level": 125,
     "luk": 10,
     "upgrade_count": 4
   },
-  "1962002": {
+  {
     "name": "리버스 윙즈",
+    "item_code": 1962002,
     "type": 27,
     "job": [ 31 ],
     "level": 120,
     "upgrade_count": 3
   },
-  "1962004": {
+  {
     "name": "어비스 윙즈",
+    "item_code": 1962004,
     "type": 27,
     "job": [ 31 ],
     "level": 125,
     "upgrade_count": 4
   },
-  "1972002": {
+  {
     "name": "리버스 테일",
+    "item_code": 1972002,
     "type": 28,
     "job": [ 31 ],
     "level": 120,
     "upgrade_count": 3
   },
-  "1972004": {
+  {
     "name": "어비스 테일",
+    "item_code": 1972004,
     "type": 28,
     "job": [ 31 ],
     "level": 125,
     "upgrade_count": 4
   },
-  "3700287": {
+  {
     "name": "핑아일체",
+    "item_code": 3700287,
     "type": 23,
     "str": 10,
     "dex": 10,
@@ -5256,8 +5697,9 @@
     "matk": 5,
     "boss_damage": 10
   },
-  "3700334": {
+  {
     "name": "파왕 파멸자",
+    "item_code": 3700334,
     "type": 23,
     "str": 5,
     "dex": 5,
@@ -5268,8 +5710,9 @@
     "matk": 5,
     "armor_ignore": 5
   },
-  "3700338": {
+  {
     "name": "메이플을 잘 아는",
+    "item_code": 3700338,
     "type": 23,
     "str": 10,
     "dex": 10,
@@ -5279,8 +5722,9 @@
     "matk": 5,
     "armor_ignore": 10
   },
-  "3700339": {
+  {
     "name": "킹 오브 루타비스",
+    "item_code": 3700339,
     "type": 23,
     "str": 8,
     "dex": 8,
@@ -5293,14 +5737,16 @@
     "armor_ignore": 5,
     "boss_damage": 5
   },
-  "3700341": {
+  {
     "name": "MVP 브론즈 I",
+    "item_code": 3700341,
     "type": 23,
     "patk": 1,
     "matk": 1
   },
-  "3700342": {
+  {
     "name": "MVP 브론즈 II",
+    "item_code": 3700342,
     "type": 23,
     "str": 4,
     "dex": 4,
@@ -5309,8 +5755,9 @@
     "patk": 2,
     "matk": 2
   },
-  "3700343": {
+  {
     "name": "MVP 브론즈 III",
+    "item_code": 3700343,
     "type": 23,
     "str": 5,
     "dex": 5,
@@ -5319,8 +5766,9 @@
     "patk": 3,
     "matk": 3
   },
-  "3700344": {
+  {
     "name": "MVP 브론즈 IV",
+    "item_code": 3700344,
     "type": 23,
     "str": 6,
     "dex": 6,
@@ -5329,8 +5777,9 @@
     "patk": 4,
     "matk": 4
   },
-  "3700345": {
+  {
     "name": "MVP 실버",
+    "item_code": 3700345,
     "type": 23,
     "str": 7,
     "dex": 7,
@@ -5341,8 +5790,9 @@
     "patk": 5,
     "matk": 5
   },
-  "3700346": {
+  {
     "name": "MVP 골드",
+    "item_code": 3700346,
     "type": 23,
     "str": 8,
     "dex": 8,
@@ -5353,8 +5803,9 @@
     "patk": 7,
     "matk": 7
   },
-  "3700347": {
+  {
     "name": "MVP 다이아",
+    "item_code": 3700347,
     "type": 23,
     "str": 10,
     "dex": 10,
@@ -5366,8 +5817,9 @@
     "matk": 10,
     "armor_ignore": 6
   },
-  "3700625": {
+  {
     "name": "MVP 레드",
+    "item_code": 3700625,
     "type": 23,
     "str": 10,
     "dex": 10,
@@ -5379,8 +5831,9 @@
     "matk": 10,
     "armor_ignore": 8
   },
-  "3700682": {
+  {
     "name": "예아일체",
+    "item_code": 3700682,
     "type": 23,
     "str": 10,
     "dex": 10,
@@ -5390,8 +5843,9 @@
     "matk": 5,
     "boss_damage": 10
   },
-  "3700683": {
+  {
     "name": "예티X핑크빈",
+    "item_code": 3700683,
     "type": 23,
     "str": 20,
     "dex": 20,
@@ -5401,16 +5855,18 @@
     "matk": 10,
     "boss_damage": 10
   },
-  "3700718": {
+  {
     "name": "진 악마",
+    "item_code": 3700718,
     "type": 23,
     "patk": 30,
     "matk": 30,
     "armor_ignore": 30,
     "boss_damage": 30
   },
-  "3700720": {
+  {
     "name": "헤이스트",
+    "item_code": 3700720,
     "type": 23,
     "str": 50,
     "dex": 50,
@@ -5423,4 +5879,4 @@
     "armor_ignore": 30,
     "boss_damage": 30
   }
-}
+]
