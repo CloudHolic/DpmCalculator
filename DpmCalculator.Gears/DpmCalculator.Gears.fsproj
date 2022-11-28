@@ -6,11 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Models\SetEffect.fs" />
-    <Compile Include="Models\Gear.fs" />
-    <Content Include="Data\SetData.json" />
-    <Content Include="Data\GearData.json" />
-    <Compile Include="Library.fs" />
+	  <EmbeddedResource Include="Data\SetData.json" />
+	  <EmbeddedResource Include="Data\GearData.json" />
+	  <Compile Include="Models\SetEffect.fs" />
+	  <Compile Include="Models\Gear.fs" />
+	  <Compile Include="Core.fs" />
+    <Compile Include="GearBuilder.fs" />
   </ItemGroup>
 
   <ItemGroup>

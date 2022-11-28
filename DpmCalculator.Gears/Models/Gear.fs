@@ -1,9 +1,41 @@
-﻿namespace DpmCalculator.Gears
+﻿namespace DpmCalculator.Gears.Models
 
 module Gear =
     open FSharp.Json
     open DpmCalculator.Core.Models.GearType
     open DpmCalculator.Core.Models.JobType
+    open DpmCalculator.Core.Models.StatType
+        
+    type JobUnion = 
+        | JobBranch of JobBranchEnum
+        | JobClass of JobClassEnum
+        | Job of JobEnum list
+        | All
+
+    type Gear = {
+        Name: string
+        ItemCode: int
+        SetCode: int
+
+        Type: GearEnum
+        Job: JobUnion
+        Level: int
+
+        Joker: bool
+
+        CurrentUpgrade: int       
+        MaxUpgrade: int
+
+        CurrentStar: int
+        MaxStar: int
+
+        BaseStat: Stat
+        AdditionalStat: Stat
+        PotentialStat: Stat
+        AdditionalPotentialStat: Stat
+
+        TotalStat: Stat
+    }
 
     type GearBase = {
         [<JsonField("name")>]

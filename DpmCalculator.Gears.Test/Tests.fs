@@ -1,11 +1,13 @@
-namespace DpmCalculator.Items.Test
+﻿namespace DpmCalculator.Items.Test
 
 module Tests =
+    open System
     open System.IO
     open Xunit
     open FSharp.Json
-    open DpmCalculator.Gears.Gear
-    open DpmCalculator.Gears.SetEffect
+    open DpmCalculator.Gears.Models.Gear
+    open DpmCalculator.Gears.Models.SetEffect
+    open DpmCalculator.Gears.GearBuilder
 
     [<Fact>]
     let ParseGearDataTest () =
@@ -25,3 +27,11 @@ module Tests =
             |> Json.deserialize<SetBase list>
 
         printfn "%A" data
+
+    [<Fact>]
+    let SearchIdTest () =
+        let id = 
+            "앱솔랩스 메이지"
+            |> searchIdByName false
+        
+        Assert.True(List.contains 1152176 id)
