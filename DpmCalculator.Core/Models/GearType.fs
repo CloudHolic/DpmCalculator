@@ -1,7 +1,7 @@
 ﻿namespace DpmCalculator.Core.Models
 
-module ItemType =
-    type ItemEnum =
+module GearType =
+    type GearEnum =
         | Cap = 1
         | FaceAccessory = 2
         | EyeAccessory = 3

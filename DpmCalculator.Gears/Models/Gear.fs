@@ -1,11 +1,11 @@
 ﻿namespace DpmCalculator.Items
 
-module Item =
+module Gear =
     open FSharp.Json
-    open DpmCalculator.Core.Models.ItemType
+    open DpmCalculator.Core.Models.GearType
     open DpmCalculator.Core.Models.JobType
 
-    type ItemBase = {
+    type GearBase = {
         [<JsonField("name")>]
         Name: string
 
@@ -16,7 +16,7 @@ module Item =
         SetCode: int
 
         [<JsonField("type", EnumValue = EnumMode.Value)>]
-        Type: ItemEnum
+        Type: GearEnum
         
         [<JsonField("job_branch", EnumValue = EnumMode.Value, DefaultValue = JobBranchEnum.All)>]
         JobBranch: JobBranchEnum

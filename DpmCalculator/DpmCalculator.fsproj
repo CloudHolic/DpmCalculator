@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DpmCalculator.Items\DpmCalculator.Items.fsproj" />
+    <ProjectReference Include="..\DpmCalculator.Items\DpmCalculator.Gears.fsproj" />
     <ProjectReference Include="..\DpmCalculator.Jobs\DpmCalculator.Jobs.fsproj" />
   </ItemGroup>
 
