@@ -1,4 +1,4 @@
-﻿namespace DpmCalculator.Items
+﻿namespace DpmCalculator.Gears
 
 module Gear =
     open FSharp.Json

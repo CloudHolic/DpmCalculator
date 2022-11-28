@@ -1,4 +1,4 @@
-﻿namespace DpmCalculator.Items
+﻿namespace DpmCalculator.Gears
 
 module Say =
     let hello name =

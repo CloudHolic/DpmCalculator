@@ -1,4 +1,4 @@
-﻿namespace DpmCalculator.Items
+﻿namespace DpmCalculator.Gears
 
 module SetEffect =
     open FSharp.Json
