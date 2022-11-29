@@ -6,12 +6,35 @@ module Core =
     open FSharp.Json
     open Models.Gear
     open Models.SetEffect
+    
+    let private baseResource = "DpmCalculator.Gears.Data."
 
-    let assembly = Assembly.GetExecutingAssembly ()
-    let gearStream = "DpmCalculator.Gears.Data.GearData.json" |> assembly.GetManifestResourceStream
-    let setStream = "DpmCalculator.Gears.Data.SetData.json" |> assembly.GetManifestResourceStream
-    let gearReader = new StreamReader(gearStream)
-    let setReader = new StreamReader(setStream)
+    let private gearData =
+        let assembly = Assembly.GetExecutingAssembly ()
+        use stream = baseResource + "GearData.json" |> assembly.GetManifestResourceStream
+        use reader = new StreamReader(stream)
 
-    let gearData = gearReader.ReadToEnd () |> Json.deserialize<GearBase list>
-    let setData = setReader.ReadToEnd () |> Json.deserialize<SetBase list>
+        reader.ReadToEnd () 
+        |> Json.deserialize<GearBase list>
+
+    let private setData =
+        let assembly = Assembly.GetExecutingAssembly ()
+        use stream = baseResource + "SetData.json" |> assembly.GetManifestResourceStream
+        use reader = new StreamReader(stream)
+
+        reader.ReadToEnd () 
+        |> Json.deserialize<SetBase list>
+
+    let searchIdByName exact name =
+        gearData
+        |> List.filter (fun x ->
+            match exact with
+            | true -> x.Name = name
+            | false -> x.Name.Contains name)
+        |> List.map (fun x -> x.ItemCode)
+
+    let createGearById id =
+        gearData
+        |> List.find (fun x -> x.ItemCode = id)
+        |> (fun x -> new Gear(x))
+        

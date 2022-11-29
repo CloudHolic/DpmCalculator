@@ -6,8 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Models\StatType.fs" />
-    <Compile Include="Models\JobType.fs" />
+    <Compile Include="Models\Stat.fs" />
+    <Compile Include="Models\Job.fs" />
     <Compile Include="Models\GearType.fs" />
     <Compile Include="Library.fs" />
   </ItemGroup>

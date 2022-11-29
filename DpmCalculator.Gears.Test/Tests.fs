@@ -1,13 +1,12 @@
 ﻿namespace DpmCalculator.Items.Test
 
 module Tests =
-    open System
     open System.IO
     open Xunit
     open FSharp.Json
     open DpmCalculator.Gears.Models.Gear
     open DpmCalculator.Gears.Models.SetEffect
-    open DpmCalculator.Gears.GearBuilder
+    open DpmCalculator.Gears.Core
 
     [<Fact>]
     let ParseGearDataTest () =

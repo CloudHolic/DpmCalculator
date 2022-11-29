@@ -8,10 +8,10 @@
   <ItemGroup>
 	  <EmbeddedResource Include="Data\SetData.json" />
 	  <EmbeddedResource Include="Data\GearData.json" />
+	  <Compile Include="Models\Scroll.fs" />
 	  <Compile Include="Models\SetEffect.fs" />
 	  <Compile Include="Models\Gear.fs" />
 	  <Compile Include="Core.fs" />
-    <Compile Include="GearBuilder.fs" />
   </ItemGroup>
 
   <ItemGroup>

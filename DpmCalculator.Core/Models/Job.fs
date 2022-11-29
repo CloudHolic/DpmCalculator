@@ -1,6 +1,6 @@
 ﻿namespace DpmCalculator.Core.Models
 
-module JobType =
+module Job =
     type JobBranchEnum = 
         | Warrior = 1
         | Magician = 2

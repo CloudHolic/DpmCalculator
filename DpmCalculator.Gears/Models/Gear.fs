@@ -3,39 +3,14 @@
 module Gear =
     open FSharp.Json
     open DpmCalculator.Core.Models.GearType
-    open DpmCalculator.Core.Models.JobType
-    open DpmCalculator.Core.Models.StatType
+    open DpmCalculator.Core.Models.Job
+    open DpmCalculator.Core.Models.Stat
         
     type JobUnion = 
         | JobBranch of JobBranchEnum
         | JobClass of JobClassEnum
         | Job of JobEnum list
         | All
-
-    type Gear = {
-        Name: string
-        ItemCode: int
-        SetCode: int
-
-        Type: GearEnum
-        Job: JobUnion
-        Level: int
-
-        Joker: bool
-
-        CurrentUpgrade: int       
-        MaxUpgrade: int
-
-        CurrentStar: int
-        MaxStar: int
-
-        BaseStat: Stat
-        AdditionalStat: Stat
-        PotentialStat: Stat
-        AdditionalPotentialStat: Stat
-
-        TotalStat: Stat
-    }
 
     type GearBase = {
         [<JsonField("name")>]
@@ -119,3 +94,89 @@ module Gear =
         [<JsonField("final_damage", DefaultValue = 0)>]
         FinalDamage: int
     }
+        
+    type Gear(gearBase: GearBase) =
+        member _.Name = gearBase.Name
+        member _.ItemCode = gearBase.ItemCode
+        member _.SetCode = gearBase.SetCode
+
+        member _.Type = gearBase.Type
+        member _.Job = 
+            match (gearBase.JobBranch, gearBase.JobClass, gearBase.Job) with
+            | (JobBranchEnum.All, JobClassEnum.All, None) -> All
+            | (JobBranchEnum.All, JobClassEnum.All, Some [ ]) -> All
+            | (JobBranchEnum.All, JobClassEnum.All, Some jobList) -> Job (jobList |> List.map enum<JobEnum>)
+            | (JobBranchEnum.All, jobClass, _) -> JobClass jobClass
+            | (jobBranch, JobClassEnum.All, _) -> JobBranch jobBranch
+            | (_, _, _) -> All
+
+        member _.Level = gearBase.Level
+        member _.Joker = gearBase.Joker
+
+        member _.CurrentUpgrade = 0
+        member _.MaxUpgrade = gearBase.UpgradeCount
+
+        member this.Superior = [ 1132174; 1132175; 1132176; 1132177; 1132178 ] |> List.contains this.ItemCode
+        member _.CurrentStar = 0
+        member this.MaxStar =
+            match (this.Level, this.Superior) with
+            | (_, true) -> 15
+            | (l, _) when l < 95 -> 5
+            | (l, _) when l >= 95 && l < 107 -> 8
+            | (l, _) when l >= 108 && l < 117 -> 10            
+            | (l, _) when l >= 118 && l < 127 -> 15
+            | (l, _) when l >= 128 && l < 137 -> 20
+            | _ -> 25
+
+        member _.BaseStat = {
+            Str = gearBase.Str
+            StrRate = 0
+
+            Dex = gearBase.Dex
+            DexRate = 0
+
+            Int = gearBase.Int
+            IntRate = 0
+
+            Luk = gearBase.Luk
+            LukRate = 0
+
+            MaxHp = gearBase.MaxHp
+            HpRate = gearBase.HpRate
+
+            MaxMp = gearBase.MaxMp
+            MpRate = gearBase.MpRate
+
+            PAtk = gearBase.PAtk
+            PAtkRate = 0
+
+            MAtk = gearBase.MAtk
+            MAtkRate = 0
+
+            ArmorIgnore = gearBase.ArmorIgnore
+            BossDamage = gearBase.BossDamage
+
+            CritRate = gearBase.CritRate
+            CritDamage = gearBase.CritDamage
+
+            FinalDamage = gearBase.FinalDamage
+        }
+        member _.AdditionalStat = Stat.Default
+        member _.PotentialStat = Stat.Default
+        member _.AdditionalPotentialStat = Stat.Default
+        member this.TotalStat = Stat.Default.Add this.BaseStat
+
+        member this.ApplyAdditionalStat statType grade =
+            0
+
+        member this.ApplyUpgrade scroll count =
+            0
+
+        member this.ApplyStarForce star amazing bonus =
+            0
+
+        member this.ApplyPotential =
+            0
+
+        member this.ApplyAdditionalPotential =
+            0
