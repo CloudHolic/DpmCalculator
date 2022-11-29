@@ -1173,7 +1173,7 @@
   {
     "name": "데이모스 다크니스 실드",
     "item_code": 1092088,
-    "type": 22,
+    "type": 23,
     "job": [ 11 ],
     "level": 130,
     "luk": 10,
@@ -1182,7 +1182,7 @@
   {
     "name": "데이모스 세이지 실드",
     "item_code": 1092089,
-    "type": 22,
+    "type": 23,
     "job": [ 4, 5, 6, 18, 23, 31 ],
     "level": 130,
     "int": 10,
@@ -1191,7 +1191,7 @@
   {
     "name": "피어리스 프렐류드",
     "item_code": 1092092,
-    "type": 22,
+    "type": 23,
     "job": [ 4, 5, 6, 18, 23, 31 ],
     "level": 125,
     "int": 10,
@@ -1201,7 +1201,7 @@
   {
     "name": "피어리스 리스트",
     "item_code": 1092094,
-    "type": 22,
+    "type": 23,
     "job": [ 11 ],
     "level": 125,
     "dex": 5,
@@ -1211,7 +1211,7 @@
   {
     "name": "정의의 소울실드",
     "item_code": 1098003,
-    "type": 22,
+    "type": 23,
     "job": [ 17 ],
     "level": 100,
     "str": 12,
@@ -1222,7 +1222,7 @@
   {
     "name": "이볼빙 정의의 소울실드",
     "item_code": 1098009,
-    "type": 22,
+    "type": 23,
     "job": [ 17 ],
     "level": 100,
     "str": 12,
@@ -1234,7 +1234,7 @@
   {
     "name": "극한의 포스실드",
     "item_code": 1099004,
-    "type": 22,
+    "type": 23,
     "job_class": 4,
     "level": 100,
     "str": 12,
@@ -1245,7 +1245,7 @@
   {
     "name": "극한의 포스실드",
     "item_code": 1099009,
-    "type": 22,
+    "type": 23,
     "job_class": 4,
     "level": 100,
     "str": 12,
@@ -1254,7 +1254,7 @@
   {
     "name": "루인 포스실드",
     "item_code": 1099015,
-    "type": 22,
+    "type": 23,
     "job_class": 4,
     "level": 100,
     "str": 10,
@@ -1266,7 +1266,7 @@
   {
     "name": "이볼빙 극한의 포스실드",
     "item_code": 1099016,
-    "type": 22,
+    "type": 23,
     "job_class": 4,
     "level": 100,
     "str": 12,
@@ -1278,7 +1278,7 @@
   {
     "name": "이볼빙 극한의 포스실드",
     "item_code": 1099017,
-    "type": 22,
+    "type": 23,
     "job_class": 4,
     "level": 100,
     "str": 12,
@@ -1452,22 +1452,6 @@
     "upgrade_count": 1
   },
   {
-    "name": "스칼렛 링",
-    "item_code": 1113070,
-    "joker": true,
-    "type": 11,
-    "level": 135,
-    "str": 4,
-    "dex": 4,
-    "int": 4,
-    "luk": 4,
-    "max_hp": 150,
-    "max_mp": 150,
-    "patk": 1,
-    "matk": 1,
-    "upgrade_count": 1
-  },
-  {
     "name": "가디언의 마이스터 임모탈 링",
     "item_code": 1113063,
     "set_code": 305,
@@ -1515,6 +1499,22 @@
     "dex": 10,
     "int": 10,
     "luk": 10,
+    "upgrade_count": 1
+  },
+  {
+    "name": "스칼렛 링",
+    "item_code": 1113070,
+    "joker": true,
+    "type": 11,
+    "level": 135,
+    "str": 4,
+    "dex": 4,
+    "int": 4,
+    "luk": 4,
+    "max_hp": 150,
+    "max_mp": 150,
+    "patk": 1,
+    "matk": 1,
     "upgrade_count": 1
   },
   {
@@ -1569,7 +1569,84 @@
     "matk": 2,
     "upgrade_count": 1
   },
-
+  {
+    "name": "리스트레인트 링",
+    "item_code": 1113098,
+    "type": 12,
+    "level": 110,
+    "str": 4,
+    "dex": 4,
+    "int": 4,
+    "luk": 4,
+    "patk": 4,
+    "matk": 4,
+    "block_star": true
+  },
+  {
+    "name": "웨폰퍼프 - S링",
+    "item_code": 1113113,
+    "type": 12,
+    "level": 110,
+    "str": 4,
+    "dex": 4,
+    "int": 4,
+    "luk": 4,
+    "patk": 4,
+    "matk": 4,
+    "block_star": true
+  },
+  {
+    "name": "웨폰퍼프 - D링",
+    "item_code": 1113114,
+    "type": 12,
+    "level": 110,
+    "str": 4,
+    "dex": 4,
+    "int": 4,
+    "luk": 4,
+    "patk": 4,
+    "matk": 4,
+    "block_star": true
+  },
+  {
+    "name": "웨폰퍼프 - I링",
+    "item_code": 1113115,
+    "type": 12,
+    "level": 110,
+    "str": 4,
+    "dex": 4,
+    "int": 4,
+    "luk": 4,
+    "patk": 4,
+    "matk": 4,
+    "block_star": true
+  },
+  {
+    "name": "웨폰퍼프 - L링",
+    "item_code": 1113116,
+    "type": 12,
+    "level": 110,
+    "str": 4,
+    "dex": 4,
+    "int": 4,
+    "luk": 4,
+    "patk": 4,
+    "matk": 4,
+    "block_star": true
+  },
+  {
+    "name": "리스크테이커 링",
+    "item_code": 1113122,
+    "type": 12,
+    "level": 110,
+    "str": 4,
+    "dex": 4,
+    "int": 4,
+    "luk": 4,
+    "patk": 4,
+    "matk": 4,
+    "block_star": true
+  },
   {
     "name": "실버블라썸 링",
     "item_code": 1113149,
@@ -3697,14 +3774,14 @@
   {
     "name": "무한의 마법 화살",
     "item_code": 1352003,
-    "type": 22,
+    "type": 23,
     "job": [ 32 ],
     "level": 100
   },
   {
     "name": "이볼빙 무한의 마법 화살",
     "item_code": 1352012,
-    "type": 22,
+    "type": 23,
     "job": [ 32 ],
     "level": 100,
     "patk": 2
@@ -3712,14 +3789,14 @@
   {
     "name": "데르니에 카르트",
     "item_code": 1352103,
-    "type": 22,
+    "type": 23,
     "job": [ 33 ],
     "level": 100
   },
   {
     "name": "이볼빙 데르니에 카르트",
     "item_code": 1352112,
-    "type": 22,
+    "type": 23,
     "job": [ 33 ],
     "level": 100,
     "patk": 2
@@ -3727,7 +3804,7 @@
   {
     "name": "버츄스 메달",
     "item_code": 1352202,
-    "type": 22,
+    "type": 23,
     "job": [ 1 ],
     "level": 100,
     "str": 10,
@@ -3737,7 +3814,7 @@
   {
     "name": "이볼빙 버츄스 메달",
     "item_code": 1352203,
-    "type": 22,
+    "type": 23,
     "job": [ 1 ],
     "level": 100,
     "str": 10,
@@ -3747,7 +3824,7 @@
   {
     "name": "세이크리드 로자리오",
     "item_code": 1352212,
-    "type": 22,
+    "type": 23,
     "job": [ 2 ],
     "level": 100,
     "str": 10,
@@ -3757,7 +3834,7 @@
   {
     "name": "이볼빙 세이크리드 로자리오",
     "item_code": 1352213,
-    "type": 22,
+    "type": 23,
     "job": [ 2 ],
     "level": 100,
     "str": 10,
@@ -3767,7 +3844,7 @@
   {
     "name": "버서크 체인",
     "item_code": 1352222,
-    "type": 22,
+    "type": 23,
     "job": [ 3 ],
     "level": 100,
     "str": 10,
@@ -3777,7 +3854,7 @@
   {
     "name": "이볼빙 버서크 체인",
     "item_code": 1352223,
-    "type": 22,
+    "type": 23,
     "job": [ 3 ],
     "level": 100,
     "str": 10,
@@ -3787,7 +3864,7 @@
   {
     "name": "적녹의 서 <종장>",
     "item_code": 1352232,
-    "type": 22,
+    "type": 23,
     "job": [ 4 ],
     "level": 100,
     "int": 10,
@@ -3797,7 +3874,7 @@
   {
     "name": "이볼빙 적녹의 서 <종장>",
     "item_code": 1352233,
-    "type": 22,
+    "type": 23,
     "job": [ 4 ],
     "level": 100,
     "int": 10,
@@ -3807,7 +3884,7 @@
   {
     "name": "청은의 서 <종장>",
     "item_code": 1352242,
-    "type": 22,
+    "type": 23,
     "job": [ 5 ],
     "level": 100,
     "int": 10,
@@ -3817,7 +3894,7 @@
   {
     "name": "이볼빙 청은의 서 <종장>",
     "item_code": 1352243,
-    "type": 22,
+    "type": 23,
     "job": [ 5 ],
     "level": 100,
     "int": 10,
@@ -3827,7 +3904,7 @@
   {
     "name": "백금의 서 <종장>",
     "item_code": 1352252,
-    "type": 22,
+    "type": 23,
     "job": [ 6 ],
     "level": 100,
     "int": 10,
@@ -3837,7 +3914,7 @@
   {
     "name": "이볼빙 백금의 서 <종장>",
     "item_code": 1352253,
-    "type": 22,
+    "type": 23,
     "job": [ 6 ],
     "level": 100,
     "int": 10,
@@ -3847,7 +3924,7 @@
   {
     "name": "블라스트 페더",
     "item_code": 1352262,
-    "type": 22,
+    "type": 23,
     "job": [ 7 ],
     "level": 100,
     "str": 10,
@@ -3857,7 +3934,7 @@
   {
     "name": "이볼빙 블라스트 페더",
     "item_code": 1352263,
-    "type": 22,
+    "type": 23,
     "job": [ 7 ],
     "level": 100,
     "str": 10,
@@ -3867,7 +3944,7 @@
   {
     "name": "전발적중",
     "item_code": 1352272,
-    "type": 22,
+    "type": 23,
     "job": [ 8 ],
     "level": 100,
     "str": 10,
@@ -3877,7 +3954,7 @@
   {
     "name": "이볼빙 전발적중",
     "item_code": 1352273,
-    "type": 22,
+    "type": 23,
     "job": [ 8 ],
     "level": 100,
     "str": 10,
@@ -3887,7 +3964,7 @@
   {
     "name": "슬래싱 섀도우",
     "item_code": 1352282,
-    "type": 22,
+    "type": 23,
     "job": [ 11 ],
     "level": 100,
     "dex": 10,
@@ -3897,7 +3974,7 @@
   {
     "name": "이볼빙 슬래싱 섀도우",
     "item_code": 1352283,
-    "type": 22,
+    "type": 23,
     "job": [ 11 ],
     "level": 100,
     "dex": 10,
@@ -3907,7 +3984,7 @@
   {
     "name": "파사부",
     "item_code": 1352292,
-    "type": 22,
+    "type": 23,
     "job": [ 10 ],
     "level": 100,
     "dex": 10,
@@ -3917,7 +3994,7 @@
   {
     "name": "이볼빙 파사부",
     "item_code": 1352293,
-    "type": 22,
+    "type": 23,
     "job": [ 10 ],
     "level": 100,
     "dex": 10,
@@ -3927,14 +4004,14 @@
   {
     "name": "카르마 오브",
     "item_code": 1352404,
-    "type": 22,
+    "type": 23,
     "job": [ 30 ],
     "level": 100
   },
   {
     "name": "이볼빙 카르마 오브",
     "item_code": 1352409,
-    "type": 22,
+    "type": 23,
     "job": [ 30 ],
     "level": 100,
     "matk": 2
@@ -3942,7 +4019,7 @@
   {
     "name": "진리의 노바의 정수",
     "item_code": 1352503,
-    "type": 22,
+    "type": 23,
     "job": [ 35 ],
     "level": 100,
     "str": 10,
@@ -3953,7 +4030,7 @@
   {
     "name": "이볼빙 진리의 노바의 정수",
     "item_code": 1352509,
-    "type": 22,
+    "type": 23,
     "job": [ 35 ],
     "level": 100,
     "str": 10,
@@ -3965,7 +4042,7 @@
   {
     "name": "그린 소울링",
     "item_code": 1352604,
-    "type": 22,
+    "type": 23,
     "job": [ 38 ],
     "level": 100,
     "str": 10,
@@ -3977,7 +4054,7 @@
   {
     "name": "이볼빙 그린 소울링",
     "item_code": 1352609,
-    "type": 22,
+    "type": 23,
     "job": [ 38 ],
     "level": 100,
     "str": 10,
@@ -3990,7 +4067,7 @@
   {
     "name": "이터널 매그넘",
     "item_code": 1352703,
-    "type": 22,
+    "type": 23,
     "job": [ 25 ],
     "level": 100,
     "dex": 10
@@ -3998,7 +4075,7 @@
   {
     "name": "이볼빙 이터널 매그넘",
     "item_code": 1352710,
-    "type": 22,
+    "type": 23,
     "job": [ 25 ],
     "level": 100,
     "dex": 10,
@@ -4007,7 +4084,7 @@
   {
     "name": "리스트 아머",
     "item_code": 1352902,
-    "type": 22,
+    "type": 23,
     "job": [ 13 ],
     "level": 100,
     "str": 10,
@@ -4017,7 +4094,7 @@
   {
     "name": "이볼빙 리스트 아머",
     "item_code": 1352903,
-    "type": 22,
+    "type": 23,
     "job": [ 13 ],
     "level": 100,
     "str": 10,
@@ -4027,7 +4104,7 @@
   {
     "name": "팔콘아이",
     "item_code": 1352912,
-    "type": 22,
+    "type": 23,
     "job": [ 14 ],
     "level": 100,
     "str": 10,
@@ -4037,7 +4114,7 @@
   {
     "name": "이볼빙 팔콘아이",
     "item_code": 1352913,
-    "type": 22,
+    "type": 23,
     "job": [ 14 ],
     "level": 100,
     "str": 10,
@@ -4047,7 +4124,7 @@
   {
     "name": "봄버드 센터파이어",
     "item_code": 1352922,
-    "type": 22,
+    "type": 23,
     "job": [ 15 ],
     "level": 100,
     "str": 10,
@@ -4057,7 +4134,7 @@
   {
     "name": "이볼빙 봄버드 센터파이어",
     "item_code": 1352923,
-    "type": 22,
+    "type": 23,
     "job": [ 15 ],
     "level": 100,
     "str": 10,
@@ -4067,7 +4144,7 @@
   {
     "name": "천룡추",
     "item_code": 1352932,
-    "type": 22,
+    "type": 23,
     "job": [ 29 ],
     "level": 100,
     "str": 10,
@@ -4077,7 +4154,7 @@
   {
     "name": "이볼빙 천룡추",
     "item_code": 1352933,
-    "type": 22,
+    "type": 23,
     "job": [ 29 ],
     "level": 100,
     "str": 10,
@@ -4087,7 +4164,7 @@
   {
     "name": "드래곤마스터의 유산",
     "item_code": 1352942,
-    "type": 22,
+    "type": 23,
     "job": [ 31 ],
     "level": 100,
     "int": 10,
@@ -4097,7 +4174,7 @@
   {
     "name": "이볼빙 드래곤마스터의 유산",
     "item_code": 1352943,
-    "type": 22,
+    "type": 23,
     "job": [ 31 ],
     "level": 100,
     "int": 10,
@@ -4107,7 +4184,7 @@
   {
     "name": "맥시마이즈 볼",
     "item_code": 1352952,
-    "type": 22,
+    "type": 23,
     "job": [ 23 ],
     "level": 100,
     "int": 10,
@@ -4117,7 +4194,7 @@
   {
     "name": "이볼빙 맥시마이즈 볼",
     "item_code": 1352953,
-    "type": 22,
+    "type": 23,
     "job": [ 23 ],
     "level": 100,
     "int": 10,
@@ -4127,7 +4204,7 @@
   {
     "name": "와일드 팡",
     "item_code": 1352962,
-    "type": 22,
+    "type": 23,
     "job": [ 24 ],
     "level": 100,
     "str": 10,
@@ -4137,7 +4214,7 @@
   {
     "name": "이볼빙 와일드 팡",
     "item_code": 1352963,
-    "type": 22,
+    "type": 23,
     "job": [ 24 ],
     "level": 100,
     "str": 10,
@@ -4147,7 +4224,7 @@
   {
     "name": "에레브의 광휘",
     "item_code": 1352972,
-    "type": 22,
+    "type": 23,
     "job_class": 2,
     "level": 100,
     "str": 10,
@@ -4160,7 +4237,7 @@
   {
     "name": "이볼빙 에레브의 광휘",
     "item_code": 1352973,
-    "type": 22,
+    "type": 23,
     "job_class": 2,
     "level": 100,
     "str": 10,
@@ -4173,7 +4250,7 @@
   {
     "name": "옥타코어 컨트롤러",
     "item_code": 1353004,
-    "type": 22,
+    "type": 23,
     "job": [ 26 ],
     "level": 100,
     "str": 2,
@@ -4186,7 +4263,7 @@
   {
     "name": "이볼빙 옥타코어 컨트롤러",
     "item_code": 1353009,
-    "type": 22,
+    "type": 23,
     "job": [ 26 ],
     "level": 100,
     "str": 2,
@@ -4200,7 +4277,7 @@
   {
     "name": "황금빛 여우구슬",
     "item_code": 1353103,
-    "type": 22,
+    "type": 23,
     "job": [ 34 ],
     "level": 100,
     "str": 10,
@@ -4210,7 +4287,7 @@
   {
     "name": "이볼빙 황금빛 여우구슬",
     "item_code": 1353108,
-    "type": 22,
+    "type": 23,
     "job": [ 34 ],
     "level": 100,
     "str": 10,
@@ -4220,7 +4297,7 @@
   {
     "name": "체스피스 디 퀸",
     "item_code": 1353203,
-    "type": 22,
+    "type": 23,
     "job": [ 45 ],
     "level": 100,
     "int": 10,
@@ -4230,7 +4307,7 @@
   {
     "name": "이볼빙 체스피스 디 퀸",
     "item_code": 1353208,
-    "type": 22,
+    "type": 23,
     "job": [ 45 ],
     "level": 100,
     "int": 10,
@@ -4240,7 +4317,7 @@
   {
     "name": "트랜스미터 type:A",
     "item_code": 1353303,
-    "type": 22,
+    "type": 23,
     "job": [ 37 ],
     "level": 100,
     "dex": 10,
@@ -4250,7 +4327,7 @@
   {
     "name": "이볼빙 트랜스미터 type:A",
     "item_code": 1353308,
-    "type": 22,
+    "type": 23,
     "job": [ 37 ],
     "level": 100,
     "dex": 10,
@@ -4260,7 +4337,7 @@
   {
     "name": "익스플로시브 필<3호>",
     "item_code": 1353403,
-    "type": 22,
+    "type": 23,
     "job": [ 22 ],
     "level": 100,
     "str": 10,
@@ -4270,7 +4347,7 @@
   {
     "name": "이볼빙 익스플로시브 필<3호>",
     "item_code": 1353407,
-    "type": 22,
+    "type": 23,
     "job": [ 22 ],
     "level": 100,
     "str": 10,
@@ -4280,7 +4357,7 @@
   {
     "name": "글로리 매직윙",
     "item_code": 1353503,
-    "type": 22,
+    "type": 23,
     "job": [ 40 ],
     "level": 100,
     "int": 10,
@@ -4290,7 +4367,7 @@
   {
     "name": "이볼빙 글로리 매직윙",
     "item_code": 1353507,
-    "type": 22,
+    "type": 23,
     "job": [ 40 ],
     "level": 100,
     "int": 10,
@@ -4300,7 +4377,7 @@
   {
     "name": "얼티밋 패스",
     "item_code": 1353603,
-    "type": 22,
+    "type": 23,
     "job": [ 41 ],
     "level": 100,
     "str": 10,
@@ -4310,7 +4387,7 @@
   {
     "name": "이볼빙 얼티밋 패스",
     "item_code": 1353607,
-    "type": 22,
+    "type": 23,
     "job": [ 41 ],
     "level": 100,
     "str": 10,
@@ -4320,7 +4397,7 @@
   {
     "name": "퍼펙트 렐릭",
     "item_code": 1353703,
-    "type": 22,
+    "type": 23,
     "job": [ 9 ],
     "level": 100,
     "str": 10,
@@ -4330,7 +4407,7 @@
   {
     "name": "이볼빙 퍼펙트 렐릭",
     "item_code": 1353705,
-    "type": 22,
+    "type": 23,
     "job": [ 9 ],
     "level": 100,
     "str": 10,
@@ -4340,7 +4417,7 @@
   {
     "name": "월장석 선추",
     "item_code": 1353803,
-    "type": 22,
+    "type": 23,
     "job": [ 43 ],
     "level": 100,
     "dex": 10,
@@ -4350,7 +4427,7 @@
   {
     "name": "이볼빙 월장석 선추",
     "item_code": 1353806,
-    "type": 22,
+    "type": 23,
     "job": [ 43 ],
     "level": 100,
     "dex": 10,
@@ -4360,7 +4437,7 @@
   {
     "name": "노블 브레이슬릿",
     "item_code": 1354003,
-    "type": 22,
+    "type": 23,
     "job": [ 39 ],
     "level": 100,
     "str": 10,
@@ -4370,7 +4447,7 @@
   {
     "name": "이볼빙 노블 브레이슬릿",
     "item_code": 1354006,
-    "type": 22,
+    "type": 23,
     "job": [ 39 ],
     "level": 100,
     "str": 10,
@@ -4380,7 +4457,7 @@
   {
     "name": "D100 커스텀 웨폰 벨트",
     "item_code": 1354013,
-    "type": 22,
+    "type": 23,
     "job": [ 36 ],
     "level": 100,
     "str": 10,
@@ -4390,7 +4467,7 @@
   {
     "name": "이볼빙 D100 웨폰 벨트",
     "item_code": 1354016,
-    "type": 22,
+    "type": 23,
     "job": [ 36 ],
     "level": 100,
     "str": 10,
@@ -4400,7 +4477,7 @@
   {
     "name": "빛나는 사옥 노리개",
     "item_code": 1354023,
-    "type": 22,
+    "type": 23,
     "job": [ 42 ],
     "level": 100,
     "int": 10,
@@ -4410,7 +4487,7 @@
   {
     "name": "이볼빙 사옥 노리개",
     "item_code": 1354026,
-    "type": 22,
+    "type": 23,
     "job": [ 42 ],
     "level": 100,
     "int": 10,
@@ -5296,7 +5373,7 @@
   {
     "name": "라피스 7형",
     "item_code": 1562007,
-    "type": 22,
+    "type": 23,
     "job": [ 44 ],
     "level": 170,
     "str": 1,
@@ -5307,7 +5384,7 @@
   {
     "name": "라피스 8형",
     "item_code": 1562008,
-    "type": 22,
+    "type": 23,
     "job": [ 44 ],
     "level": 180,
     "str": 1,
@@ -5318,7 +5395,7 @@
   {
     "name": "라피스 9형",
     "item_code": 1562009,
-    "type": 22,
+    "type": 23,
     "job": [ 44 ],
     "level": 200,
     "str": 1,
@@ -5329,7 +5406,7 @@
   {
     "name": "제네시스 라피스",
     "item_code": 1562010,
-    "type": 22,
+    "type": 23,
     "job": [ 44 ],
     "level": 200,
     "str": 1,
@@ -5510,7 +5587,7 @@
     "name": "퓨어 골드 엔진",
     "item_code": 1612004,
     "set_code": 125,
-    "type": 29,
+    "type": 30,
     "job": [ 25 ],
     "level": 120,
     "patk": 5,
@@ -5520,7 +5597,7 @@
     "name": "퓨어 골드 머신 암",
     "item_code": 1622004,
     "set_code": 125,
-    "type": 30,
+    "type": 31,
     "job": [ 25 ],
     "level": 120,
     "str": 5,
@@ -5530,7 +5607,7 @@
     "name": "퓨어 골드 머신 레그",
     "item_code": 1632003,
     "set_code": 125,
-    "type": 31,
+    "type": 32,
     "job": [ 25 ],
     "level": 120,
     "upgrade_count": 3
@@ -5539,7 +5616,7 @@
     "name": "퓨어 골드 바디 프레임",
     "item_code": 1642003,
     "set_code": 125,
-    "type": 32,
+    "type": 33,
     "job": [ 25 ],
     "level": 120,
     "max_hp": 300,
@@ -5549,7 +5626,7 @@
     "name": "퓨어 골드 트랜지스터",
     "item_code": 1652004,
     "set_code": 125,
-    "type": 33,
+    "type": 34,
     "job": [ 25 ],
     "level": 120,
     "dex": 5,
@@ -5617,9 +5694,25 @@
     "block_star": true
   },
   {
+    "name": "루나 크리스탈 키",
+    "item_code": 1802653,
+    "type": 25,
+    "patk": 10,
+    "matk": 10,
+    "upgrade_count": 8
+  },
+  {
+    "name": "멀티펫 장비",
+    "item_code": 1802717,
+    "type": 25,
+    "patk": 5,
+    "matk": 5,
+    "upgrade_count": 9
+  },
+  {
     "name": "리버스 마스크",
     "item_code": 1942002,
-    "type": 25,
+    "type": 26,
     "job": [ 31 ],
     "level": 120,
     "int": 6,
@@ -5628,7 +5721,7 @@
   {
     "name": "어비스 마스크",
     "item_code": 1942004,
-    "type": 25,
+    "type": 26,
     "job": [ 31 ],
     "level": 125,
     "int": 10,
@@ -5638,7 +5731,7 @@
   {
     "name": "리버스 펜던트",
     "item_code": 1952002,
-    "type": 26,
+    "type": 27,
     "job": [ 31 ],
     "level": 120,
     "luk": 6,
@@ -5647,7 +5740,7 @@
   {
     "name": "어비스 펜던트",
     "item_code": 1952004,
-    "type": 26,
+    "type": 27,
     "job": [ 31 ],
     "level": 125,
     "luk": 10,
@@ -5656,7 +5749,7 @@
   {
     "name": "리버스 윙즈",
     "item_code": 1962002,
-    "type": 27,
+    "type": 28,
     "job": [ 31 ],
     "level": 120,
     "upgrade_count": 3
@@ -5664,7 +5757,7 @@
   {
     "name": "어비스 윙즈",
     "item_code": 1962004,
-    "type": 27,
+    "type": 28,
     "job": [ 31 ],
     "level": 125,
     "upgrade_count": 4
@@ -5672,7 +5765,7 @@
   {
     "name": "리버스 테일",
     "item_code": 1972002,
-    "type": 28,
+    "type": 29,
     "job": [ 31 ],
     "level": 120,
     "upgrade_count": 3
@@ -5680,7 +5773,7 @@
   {
     "name": "어비스 테일",
     "item_code": 1972004,
-    "type": 28,
+    "type": 29,
     "job": [ 31 ],
     "level": 125,
     "upgrade_count": 4
@@ -5688,7 +5781,7 @@
   {
     "name": "핑아일체",
     "item_code": 3700287,
-    "type": 23,
+    "type": 24,
     "str": 10,
     "dex": 10,
     "int": 10,
@@ -5700,7 +5793,7 @@
   {
     "name": "파왕 파멸자",
     "item_code": 3700334,
-    "type": 23,
+    "type": 24,
     "str": 5,
     "dex": 5,
     "int": 5,
@@ -5713,7 +5806,7 @@
   {
     "name": "메이플을 잘 아는",
     "item_code": 3700338,
-    "type": 23,
+    "type": 24,
     "str": 10,
     "dex": 10,
     "int": 10,
@@ -5725,7 +5818,7 @@
   {
     "name": "킹 오브 루타비스",
     "item_code": 3700339,
-    "type": 23,
+    "type": 24,
     "str": 8,
     "dex": 8,
     "int": 8,
@@ -5740,14 +5833,14 @@
   {
     "name": "MVP 브론즈 I",
     "item_code": 3700341,
-    "type": 23,
+    "type": 24,
     "patk": 1,
     "matk": 1
   },
   {
     "name": "MVP 브론즈 II",
     "item_code": 3700342,
-    "type": 23,
+    "type": 24,
     "str": 4,
     "dex": 4,
     "int": 4,
@@ -5758,7 +5851,7 @@
   {
     "name": "MVP 브론즈 III",
     "item_code": 3700343,
-    "type": 23,
+    "type": 24,
     "str": 5,
     "dex": 5,
     "int": 5,
@@ -5769,7 +5862,7 @@
   {
     "name": "MVP 브론즈 IV",
     "item_code": 3700344,
-    "type": 23,
+    "type": 24,
     "str": 6,
     "dex": 6,
     "int": 6,
@@ -5780,7 +5873,7 @@
   {
     "name": "MVP 실버",
     "item_code": 3700345,
-    "type": 23,
+    "type": 24,
     "str": 7,
     "dex": 7,
     "int": 7,
@@ -5793,7 +5886,7 @@
   {
     "name": "MVP 골드",
     "item_code": 3700346,
-    "type": 23,
+    "type": 24,
     "str": 8,
     "dex": 8,
     "int": 8,
@@ -5806,7 +5899,7 @@
   {
     "name": "MVP 다이아",
     "item_code": 3700347,
-    "type": 23,
+    "type": 24,
     "str": 10,
     "dex": 10,
     "int": 10,
@@ -5820,7 +5913,7 @@
   {
     "name": "MVP 레드",
     "item_code": 3700625,
-    "type": 23,
+    "type": 24,
     "str": 10,
     "dex": 10,
     "int": 10,
@@ -5834,7 +5927,7 @@
   {
     "name": "예아일체",
     "item_code": 3700682,
-    "type": 23,
+    "type": 24,
     "str": 10,
     "dex": 10,
     "int": 10,
@@ -5846,7 +5939,7 @@
   {
     "name": "예티X핑크빈",
     "item_code": 3700683,
-    "type": 23,
+    "type": 24,
     "str": 20,
     "dex": 20,
     "int": 20,
@@ -5858,7 +5951,7 @@
   {
     "name": "진 악마",
     "item_code": 3700718,
-    "type": 23,
+    "type": 24,
     "patk": 30,
     "matk": 30,
     "armor_ignore": 30,
@@ -5867,7 +5960,7 @@
   {
     "name": "헤이스트",
     "item_code": 3700720,
-    "type": 23,
+    "type": 24,
     "str": 50,
     "dex": 50,
     "int": 50,
