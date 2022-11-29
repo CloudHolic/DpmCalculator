@@ -36,3 +36,4 @@ module GearType =
         | MachineLegs = 32
         | MachineFrame = 33
         | MachineTransistors = 34
+        | All = 35
