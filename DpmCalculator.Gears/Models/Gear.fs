@@ -5,6 +5,7 @@ module Gear =
     open DpmCalculator.Core.Models.GearType
     open DpmCalculator.Core.Models.Job
     open DpmCalculator.Core.Models.Stat
+    open Scroll
         
     type JobUnion = 
         | JobBranch of JobBranchEnum
@@ -113,20 +114,20 @@ module Gear =
         member _.Level = gearBase.Level
         member _.Joker = gearBase.Joker
 
-        member _.CurrentUpgrade = 0
-        member _.MaxUpgrade = gearBase.UpgradeCount
+        member _.MaxUpgrade = if gearBase.BlockHammer then 0 else 1 |> (+) gearBase.UpgradeCount
 
         member this.Superior = [ 1132174; 1132175; 1132176; 1132177; 1132178 ] |> List.contains this.ItemCode
-        member _.CurrentStar = 0
         member this.MaxStar =
-            match (this.Level, this.Superior) with
-            | (_, true) -> 15
-            | (l, _) when l < 95 -> 5
-            | (l, _) when l >= 95 && l < 107 -> 8
-            | (l, _) when l >= 108 && l < 117 -> 10            
-            | (l, _) when l >= 118 && l < 127 -> 15
-            | (l, _) when l >= 128 && l < 137 -> 20
-            | _ -> 25
+            if gearBase.BlockStar then 0
+            else
+                match (this.Level, this.Superior) with
+                | (_, true) -> 15
+                | (l, _) when l < 95 -> 5
+                | (l, _) when l >= 95 && l < 107 -> 8
+                | (l, _) when l >= 108 && l < 117 -> 10            
+                | (l, _) when l >= 118 && l < 127 -> 15
+                | (l, _) when l >= 128 && l < 137 -> 20
+                | _ -> 25
 
         member _.BaseStat = {
             Str = gearBase.Str
@@ -161,22 +162,42 @@ module Gear =
 
             FinalDamage = gearBase.FinalDamage
         }
-        member _.AdditionalStat = Stat.Default
-        member _.PotentialStat = Stat.Default
-        member _.AdditionalPotentialStat = Stat.Default
-        member this.TotalStat = Stat.Default.Add this.BaseStat
+                
+        member val CurrentUpgrade = 0 with get, set
+        member val CurrentStar = 0 with get, set
 
-        member this.ApplyAdditionalStat statType grade =
+        member val AdditionalStat = Stat.Default with get, set
+        member val UpgradeStat = Stat.Default with get, set
+        member val PotentialStat = Stat.Default with get, set
+        member val AdditionalPotentialStat = Stat.Default with get, set
+
+        member _.ApplyAdditionalStat statType grade =
             0
 
-        member this.ApplyUpgrade scroll count =
+        member this.ApplyUpgrade (scroll: Scroll) count =
+            let scrollStat = 
+                if List.contains this.Type scroll.Type 
+                then scroll.Stat 
+                else Stat.Default
+                        
+            this.UpgradeStat <- 
+                (this.MaxUpgrade - this.CurrentUpgrade, (fun _ -> scrollStat))
+                ||> List.init
+                |> List.reduce (fun x y -> x.Add y)
+                |> this.UpgradeStat.Add
+
+        member _.ApplyStarForce star amazing bonus =
             0
 
-        member this.ApplyStarForce star amazing bonus =
+        member _.ApplyPotential =
             0
 
-        member this.ApplyPotential =
+        member _.ApplyAdditionalPotential =
             0
 
-        member this.ApplyAdditionalPotential =
-            0
+        member this.TotalStat () = 
+            this.BaseStat
+            |> this.AdditionalStat.Add
+            |> this.UpgradeStat.Add
+            |> this.PotentialStat.Add
+            |> this.AdditionalPotentialStat.Add
