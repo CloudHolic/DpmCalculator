@@ -2,9 +2,10 @@
 
 module Gear =
     open FSharp.Json
-    open DpmCalculator.Core.Models.GearType
     open DpmCalculator.Core.Models.Job
     open DpmCalculator.Core.Models.Stat
+    open AdditionalType
+    open GearType
     open Scroll
         
     type JobUnion = 
@@ -156,6 +157,7 @@ module Gear =
 
             ArmorIgnore = gearBase.ArmorIgnore
             BossDamage = gearBase.BossDamage
+            Damage = 0
 
             CritRate = gearBase.CritRate
             CritDamage = gearBase.CritDamage
@@ -171,8 +173,65 @@ module Gear =
         member val PotentialStat = Stat.Default with get, set
         member val AdditionalPotentialStat = Stat.Default with get, set
 
-        member _.ApplyAdditionalStat statType grade =
-            0
+        member this.ApplyAdditionalStat (statType: AdditionalEnum) grade =
+            this.AdditionalStat <-
+                match int statType with
+                | t when t <= 4 -> 
+                    let bonusStat = 
+                        if this.Level = 250 then 220 else this.Level / 10 * 10
+                        |> (fun x -> x / 20 + 1)
+                        |> (*) grade
+                    match t with
+                    | 1 -> { Stat.Default with Str = bonusStat }
+                    | 2 -> { Stat.Default with Dex = bonusStat }
+                    | 3 -> { Stat.Default with Int = bonusStat }
+                    | 4 -> { Stat.Default with Luk = bonusStat }
+                    | _ -> Stat.Default
+
+                | t when t >= 5 && t <= 10 -> 
+                    let bonusStat =
+                        if this.Level = 250 then 220 else this.Level / 10 * 10
+                        |> (fun x -> x / 40 + 1)
+                        |> (*) grade
+                    match t with
+                    | 5 -> { Stat.Default with Str = bonusStat; Dex = bonusStat }
+                    | 6 -> { Stat.Default with Str = bonusStat; Int = bonusStat }
+                    | 7 -> { Stat.Default with Str = bonusStat; Luk = bonusStat }
+                    | 8 -> { Stat.Default with Dex = bonusStat; Int = bonusStat }
+                    | 9 -> { Stat.Default with Dex = bonusStat; Luk = bonusStat }
+                    | 10 -> { Stat.Default with Int = bonusStat; Luk = bonusStat }
+                    | _ -> Stat.Default
+                    
+                | t when t >= 11 && t <= 12 ->
+                    let bonusStat = 
+                        if this.Level = 250 then 700 else this.Level / 10 * 30
+                        |> (*) grade
+                    match t with
+                    | 11 -> { Stat.Default with MaxHp = bonusStat }
+                    | 12 -> { Stat.Default with MaxMp = bonusStat }
+                    | _ -> Stat.Default
+
+                | t when t >= 13 && t <= 14 -> 
+                    if this.Type = GearEnum.Weapon then
+                        let bonusRate =
+                            (this.Level / 40) + 1
+                            |> (*) grade
+                            |> (fun x -> float x * 1.1 ** float (grade - 3))
+                        match t with
+                        | 13 -> { Stat.Default with PAtk = this.BaseStat.PAtk * bonusRate / 100.0 }
+                        | 14 -> { Stat.Default with MAtk = this.BaseStat.MAtk * bonusRate / 100.0 }
+                        | _ -> Stat.Default
+                    else
+                        match t with
+                        | 13 -> { Stat.Default with PAtk = grade }
+                        | 14 -> { Stat.Default with MAtk = grade }
+                        | _ -> Stat.Default
+
+                | 15 -> { Stat.Default with BossDamage = 2 * grade |> float }
+                | 16 -> { Stat.Default with Damage = grade }
+                | 17 -> { Stat.Default with StrRate = grade; DexRate = grade; IntRate = grade; LukRate = grade }
+                | _ -> Stat.Default
+                |> this.AdditionalStat.Add
 
         member this.ApplyUpgrade (scroll: Scroll) count =
             let scrollStat = 
@@ -181,7 +240,7 @@ module Gear =
                 else Stat.Default
                         
             this.UpgradeStat <- 
-                (this.MaxUpgrade - this.CurrentUpgrade, (fun _ -> scrollStat))
+                ((this.MaxUpgrade - this.CurrentUpgrade, count) ||> min, (fun _ -> scrollStat))
                 ||> List.init
                 |> List.reduce (fun x y -> x.Add y)
                 |> this.UpgradeStat.Add

@@ -8,7 +8,6 @@
   <ItemGroup>
     <Compile Include="Models\Stat.fs" />
     <Compile Include="Models\Job.fs" />
-    <Compile Include="Models\GearType.fs" />
     <Compile Include="Library.fs" />
   </ItemGroup>
 

@@ -1,4 +1,4 @@
-﻿namespace DpmCalculator.Core.Models
+﻿namespace DpmCalculator.Gears.Models
 
 module GearType =
     type GearEnum =

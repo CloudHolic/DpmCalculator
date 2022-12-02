@@ -3,7 +3,7 @@
 module Scroll =    
     open System
     open DpmCalculator.Core.Models.Stat
-    open DpmCalculator.Core.Models.GearType
+    open GearType
 
     type Scroll = {
         Name: string

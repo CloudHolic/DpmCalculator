@@ -28,6 +28,7 @@ module Stat =
 
         ArmorIgnore: float
         BossDamage: float
+        Damage: float
 
         CritRate: float
         CritDamage: float
@@ -61,6 +62,7 @@ module Stat =
 
         ArmorIgnore = 0
         BossDamage = 0
+        Damage = 0
 
         CritRate = 0
         CritDamage = 0
@@ -95,6 +97,7 @@ module Stat =
 
         ArmorIgnore = 100.0 - 0.01 * (100.0 - this.ArmorIgnore) * (100.0 - other.ArmorIgnore)
         BossDamage = this.BossDamage + other.BossDamage
+        Damage = this.Damage + other.Damage
 
         CritRate = this.CritRate + other.CritRate
         CritDamage = this.CritDamage + other.CritDamage
@@ -129,6 +132,7 @@ module Stat =
 
         ArmorIgnore = 100.0 - 100.0 * (100.0 - this.ArmorIgnore) / (100.0 - other.ArmorIgnore)
         BossDamage = this.BossDamage - other.BossDamage
+        Damage = this.Damage - other.Damage
 
         CritRate = this.CritRate - other.CritRate
         CritDamage = this.CritDamage - other.CritDamage
